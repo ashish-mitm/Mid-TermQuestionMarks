@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93704c75-9a27-459d-bc1b-ae63f7e0ce7d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dD2KDFf44MGIwMuh3pypPnszWT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\Result-14\Lab" />
+      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\Step -1" />
+      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\Result-15\TH\Th New" />
+      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\Result-14\TH" />
+      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Step-1-2-2">
+    <configuration name="RandomMarking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Mid-TermQuestionMarks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RandomMarking.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Step-1-2-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Mid-TermQuestionMarks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Step-1-2-2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Mid-TermQuestionMarks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Step-1-2-2" />
+        <item itemvalue="Python.RandomMarking" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93704c75-9a27-459d-bc1b-ae63f7e0ce7d" name="Default Changelist" comment="" />
+      <created>1591945276799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591945276799</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="427" y="179" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591949467775">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="427" y="179" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.736@0.0.1366.736" timestamp="1591949467775" />
+    <state x="522" y="267" key="Github.ShareDialog" timestamp="1592048592391">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="522" y="267" key="Github.ShareDialog/0.0.1366.736@0.0.1366.736" timestamp="1592048592391" />
+    <state width="1345" height="194" key="GridCell.Tab.0.bottom" timestamp="1592048657435">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1345" height="194" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1592048657435" />
+    <state width="1345" height="194" key="GridCell.Tab.0.center" timestamp="1592048657434">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1345" height="194" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1592048657434" />
+    <state width="1345" height="194" key="GridCell.Tab.0.left" timestamp="1592048657434">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1345" height="194" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1592048657434" />
+    <state width="1345" height="194" key="GridCell.Tab.0.right" timestamp="1592048657435">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1345" height="194" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1592048657435" />
+    <state x="550" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1592148077240">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="391" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.736@0.0.1366.736" timestamp="1591975326630" />
+    <state x="550" y="282" key="com.intellij.ide.util.TipDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1592148077240" />
+  </component>
+</project>
