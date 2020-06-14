@@ -155,6 +155,6 @@ with open('Step -2/COPOMapping.csv', 'a', newline='') as csv_file:
     step2List = []
     for key, value in attn.items():
         step2List.append(key)
-        step2List.extend((value))
+        step2List.extend(value)
         writer.writerow(step2List)
         step2List.clear()
