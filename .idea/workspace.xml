@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93704c75-9a27-459d-bc1b-ae63f7e0ce7d" name="Default Changelist" comment="CO-PO Mapping : Step 2 Complete">
-      <change afterPath="$PROJECT_DIR$/Step -1/Info061603.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Mid-TermQuestionMarks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Mid-TermQuestionMarks.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="93704c75-9a27-459d-bc1b-ae63f7e0ce7d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Step -2/COPOMapping.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Step -2/COPOMapping.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Step-2-2-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Step-2-2-3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,23 +197,31 @@
       <option name="project" value="LOCAL" />
       <updated>1592198176850</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="CO-PO Mapping : Step 2 Complete - 3 in progress">
+      <created>1592198621395</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592198621395</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="CO-PO Mapping : Step 2 Complete" />
     <MESSAGE value="CO-PO Mapping : Step 3 Begin" />
-    <option name="LAST_COMMIT_MESSAGE" value="CO-PO Mapping : Step 3 Begin" />
+    <MESSAGE value="CO-PO Mapping : Step 2 Complete - 3 in progress" />
+    <option name="LAST_COMMIT_MESSAGE" value="CO-PO Mapping : Step 2 Complete - 3 in progress" />
   </component>
   <component name="WindowStateProjectService">
     <state x="427" y="179" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591949467775">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="427" y="179" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.736@0.0.1366.736" timestamp="1591949467775" />
-    <state x="989" y="126" width="695" height="803" key="CommitChangelistDialog2" timestamp="1592198592674">
+    <state x="989" y="126" width="695" height="803" key="CommitChangelistDialog2" timestamp="1592198621331">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state x="989" y="126" width="695" height="803" key="CommitChangelistDialog2/0.0.1920.1053@0.0.1920.1053" timestamp="1592198592674" />
+    <state x="989" y="126" width="695" height="803" key="CommitChangelistDialog2/0.0.1920.1053@0.0.1920.1053" timestamp="1592198621331" />
     <state x="732" y="281" width="424" height="482" key="FileChooserDialogImpl" timestamp="1592149529731">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
@@ -249,10 +254,14 @@
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
     <state x="464" y="160" key="SettingsEditor/0.0.1920.1053@0.0.1920.1053" timestamp="1592149632495" />
-    <state x="550" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1592182219584">
+    <state x="936" y="264" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1592203701076">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="936" y="264" width="800" height="526" key="Vcs.Push.Dialog.v2/0.0.1920.1053@0.0.1920.1053" timestamp="1592203701076" />
+    <state x="550" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1592203608628">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
     <state x="391" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.736@0.0.1366.736" timestamp="1591975326630" />
-    <state x="550" y="282" key="com.intellij.ide.util.TipDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1592182219584" />
+    <state x="550" y="282" key="com.intellij.ide.util.TipDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1592203608628" />
   </component>
 </project>

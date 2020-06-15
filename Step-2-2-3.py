@@ -30,6 +30,10 @@ writeCSV("Step -1/Info061603withAvg.csv", MarksData, mode='w+')
 QuestCoMap = [1]
 QuestCoMap.extend(random.sample(range(2, 6), 4))
 
+# Prepare Co Attainment Table
+COs = ['CO1', 'CO2', 'CO3', 'CO4', 'CO5', 'CO6']
+coAttain = {}
+
 # Set Maximum marks of each question
 maxMarks = [4, 4, 4, 4, 4]
 
