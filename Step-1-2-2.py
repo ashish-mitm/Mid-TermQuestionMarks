@@ -138,7 +138,7 @@ print(attn)
 step2List = ["PO/PSO", "COs", "Total Session", "%Session", "Mapping Strength"]
 
 # Save it to Step -2
-with open('Step -2/COPOMapping.csv', 'w', newline='') as csv_file:
+with open('Step -2/MappingStrength.csv', 'w', newline='') as csv_file:
     writer = csv.writer(csv_file)
     writer.writerow(step2List)
     step2List.clear()
@@ -149,9 +149,9 @@ with open('Step -2/COPOMapping.csv', 'w', newline='') as csv_file:
         step2List.clear()
     # writer.writerow([key, value])
 
-with open('Step -2/COPOMapping.csv', 'a', newline='') as csv_file:
+with open('Step -2/COPOMapping.csv', 'w+', newline='') as csv_file:
     writer = csv.writer(csv_file)
-    writer.writerow("\n")
+    # writer.writerow("\n")
     step2List = []
     for key, value in attn.items():
         step2List.append(key)
