@@ -36,6 +36,7 @@ coAttain = {}
 
 # Set Maximum marks of each question
 maxMarks = [4, 4, 4, 4, 4]
+indirectAttn = random.randint(80, 85)
 
 for i in range(0,5):
     eachCoAttn = [QuestCoMap[i], maxMarks[i], avgMarksList[4+i]]
@@ -48,7 +49,7 @@ for i in range(0,5):
     eachCoAttn.append(avgMarksList[10])  # University Average
     directAttn = round(0.7 * avgMarksList[10] + 0.1 * assAvgPer + 0.2 * internalAvgPer, 2)
     eachCoAttn.append(directAttn)
-    indirectAttn = random.randint(80, 85)
+   # indirectAttn = random.randint(80, 85)
     eachCoAttn.append(indirectAttn)
     totalAttn = round(0.9 * directAttn + 0.1 * indirectAttn, 2)
     eachCoAttn.append(totalAttn)
@@ -62,7 +63,7 @@ eachCoAttn.append(assAvgPer)
 eachCoAttn.append(avgMarksList[10])  # University Average
 directAttn = round (0.7 * avgMarksList[10] + 0.1 * assAvgPer + 0.2 * internalAvgPer, 2)
 eachCoAttn.append(directAttn)
-indirectAttn = random.randint(80, 85)
+# indirectAttn = random.randint(80, 85)
 eachCoAttn.append(indirectAttn)
 totalAttn = round(0.9 * directAttn + 0.1 * indirectAttn, 2)
 eachCoAttn.append(totalAttn)
@@ -74,7 +75,7 @@ print(MarksData)
 print(avgMarksList)
 print(coAttain)
 
-with open('Step -2/COAttainment.csv', 'w', newline='') as csv_file:
+with open('Step -2/COAttainment.csv', 'w+', newline='') as csv_file:
     writer = csv.writer(csv_file)
     #writer.writerow("\n")
     step2List = []
