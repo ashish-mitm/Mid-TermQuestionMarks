@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93704c75-9a27-459d-bc1b-ae63f7e0ce7d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Mid-TermQuestionMarks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Mid-TermQuestionMarks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Step -2/COPOMapping.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Step -2/COPOMapping.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Step-1-2-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Step-1-2-2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Step-2-2-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Step-2-2-3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,9 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1dD2KDFf44MGIwMuh3pypPnszWT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,19 +33,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Step -1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\Result-14\Lab" />
+      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Step -1" />
       <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\Step -1" />
       <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\Result-15\TH\Th New" />
       <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\Result-14\TH" />
-      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\Result-14\Lab" />
       <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks" />
     </key>
   </component>
@@ -162,106 +165,49 @@
       <option name="presentableId" value="Default" />
       <updated>1591945276799</updated>
     </task>
-    <task id="LOCAL-00001" summary="CO-PO Mapping : Step 2 Complete">
-      <created>1592158635525</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1592158635525</updated>
-    </task>
-    <task id="LOCAL-00002" summary="CO-PO Mapping : Step 2 Complete">
-      <created>1592158700392</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1592158700392</updated>
-    </task>
-    <task id="LOCAL-00003" summary="CO-PO Mapping : Step 2 Complete">
-      <created>1592158776365</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1592158776365</updated>
-    </task>
-    <task id="LOCAL-00004" summary="CO-PO Mapping : Step 2 Complete">
-      <created>1592158783472</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1592158783472</updated>
-    </task>
-    <task id="LOCAL-00005" summary="CO-PO Mapping : Step 3 Begin">
-      <created>1592198176850</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1592198176850</updated>
-    </task>
-    <task id="LOCAL-00006" summary="CO-PO Mapping : Step 2 Complete - 3 in progress">
-      <created>1592198621395</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1592198621395</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="CO-PO Mapping : Step 2 Complete" />
-    <MESSAGE value="CO-PO Mapping : Step 3 Begin" />
-    <MESSAGE value="CO-PO Mapping : Step 2 Complete - 3 in progress" />
-    <option name="LAST_COMMIT_MESSAGE" value="CO-PO Mapping : Step 2 Complete - 3 in progress" />
   </component>
   <component name="WindowStateProjectService">
     <state x="427" y="179" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591949467775">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="427" y="179" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.736@0.0.1366.736" timestamp="1591949467775" />
-    <state x="989" y="126" width="695" height="803" key="CommitChangelistDialog2" timestamp="1592198621331">
-      <screen x="0" y="0" width="1920" height="1053" />
-    </state>
-    <state x="989" y="126" width="695" height="803" key="CommitChangelistDialog2/0.0.1920.1053@0.0.1920.1053" timestamp="1592198621331" />
-    <state x="732" y="281" width="424" height="482" key="FileChooserDialogImpl" timestamp="1592149529731">
-      <screen x="0" y="0" width="1920" height="1053" />
-    </state>
-    <state x="732" y="281" width="424" height="482" key="FileChooserDialogImpl/0.0.1920.1053@0.0.1920.1053" timestamp="1592149529731" />
     <state x="522" y="267" key="Github.ShareDialog" timestamp="1592048592391">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="522" y="267" key="Github.ShareDialog/0.0.1366.736@0.0.1366.736" timestamp="1592048592391" />
-    <state width="1100" height="261" key="GridCell.Tab.0.bottom" timestamp="1592197889151">
-      <screen x="0" y="0" width="1920" height="1053" />
+    <state width="566" height="180" key="GridCell.Tab.0.bottom" timestamp="1592207389122">
+      <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="194" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1592048657435" />
-    <state width="1100" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1592197889151" />
-    <state width="1100" height="261" key="GridCell.Tab.0.center" timestamp="1592197889150">
-      <screen x="0" y="0" width="1920" height="1053" />
+    <state width="566" height="180" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1592207389122" />
+    <state width="566" height="180" key="GridCell.Tab.0.center" timestamp="1592207389122">
+      <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="194" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1592048657434" />
-    <state width="1100" height="261" key="GridCell.Tab.0.center/0.0.1920.1053@0.0.1920.1053" timestamp="1592197889150" />
-    <state width="1100" height="261" key="GridCell.Tab.0.left" timestamp="1592197889150">
-      <screen x="0" y="0" width="1920" height="1053" />
+    <state width="566" height="180" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1592207389122" />
+    <state width="566" height="180" key="GridCell.Tab.0.left" timestamp="1592207389122">
+      <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="194" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1592048657434" />
-    <state width="1100" height="261" key="GridCell.Tab.0.left/0.0.1920.1053@0.0.1920.1053" timestamp="1592197889150" />
-    <state width="1100" height="261" key="GridCell.Tab.0.right" timestamp="1592197889150">
-      <screen x="0" y="0" width="1920" height="1053" />
+    <state width="566" height="180" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1592207389122" />
+    <state width="566" height="180" key="GridCell.Tab.0.right" timestamp="1592207389122">
+      <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="194" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1592048657435" />
-    <state width="1100" height="261" key="GridCell.Tab.0.right/0.0.1920.1053@0.0.1920.1053" timestamp="1592197889150" />
-    <state x="464" y="160" key="SettingsEditor" timestamp="1592149632495">
-      <screen x="0" y="0" width="1920" height="1053" />
+    <state width="566" height="180" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1592207389122" />
+    <state x="395" y="86" key="MultipleFileMergeDialog" timestamp="1592204432913">
+      <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="464" y="160" key="SettingsEditor/0.0.1920.1053@0.0.1920.1053" timestamp="1592149632495" />
-    <state x="936" y="264" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1592203701076">
-      <screen x="0" y="0" width="1920" height="1053" />
+    <state x="395" y="86" key="MultipleFileMergeDialog/0.0.1366.736@0.0.1366.736" timestamp="1592204432913" />
+    <state x="186" y="14" key="SettingsEditor" timestamp="1592204447254">
+      <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="936" y="264" width="800" height="526" key="Vcs.Push.Dialog.v2/0.0.1920.1053@0.0.1920.1053" timestamp="1592203701076" />
-    <state x="550" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1592203608628">
+    <state x="186" y="14" key="SettingsEditor/0.0.1366.736@0.0.1366.736" timestamp="1592204447254" />
+    <state x="550" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1592148077240">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
     <state x="391" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.736@0.0.1366.736" timestamp="1591975326630" />
-    <state x="550" y="282" key="com.intellij.ide.util.TipDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1592203608628" />
+    <state x="550" y="282" key="com.intellij.ide.util.TipDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1592148077240" />
+    <state x="494" y="288" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592204398007">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="494" y="288" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.736@0.0.1366.736" timestamp="1592204398007" />
   </component>
 </project>

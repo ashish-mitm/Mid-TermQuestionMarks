@@ -116,7 +116,7 @@ for co in Cos:
 # avgListCOPO = list(map(truediv, res_list, avg_divider))
 print(res_list)
 for i in range(0, len(avg_divider)):
-    if avg_divider[i] is not 0:
+    if avg_divider[i] != 0:
         res_list[i] /= avg_divider[i]
 avgListCOPO = res_list.copy()
 print(res_list)

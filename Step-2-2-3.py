@@ -37,7 +37,25 @@ coAttain = {}
 # Set Maximum marks of each question
 maxMarks = [4, 4, 4, 4, 4]
 
+# for i in range(0,5):
+eachCoAttn = [QuestCoMap[0], maxMarks[0], avgMarksList[4]]
+internalAvgPer = round((avgMarksList[4] / 5) * 100, 2)
+eachCoAttn.append(internalAvgPer)  # Question %
+eachCoAttn.append(avgMarksList[2])  # Attendance Avg
+eachCoAttn.append(avgMarksList[3])  # Assessment Avg
+assAvgPer = round((avgMarksList[2] + avgMarksList[3]) * 10, 2)  # Assessment %
+eachCoAttn.append(assAvgPer)
+eachCoAttn.append(avgMarksList[10])  # University Average
+directAttn = round(0.7 * avgMarksList[10] + 0.1 * assAvgPer + 0.2 * internalAvgPer, 2)
+eachCoAttn.append(directAttn)
+indirectAttn = random.randint(80, 85)
+eachCoAttn.append(indirectAttn)
+totalAttn = 0.9 * directAttn + 0.1 * indirectAttn
+eachCoAttn.append(totalAttn)
+#    coAttain[COs[i]] = eachCoAttn
+
 print(QuestCoMap)
 print(allMarksList)
 print(MarksData)
 print(avgMarksList)
+print(eachCoAttn)
