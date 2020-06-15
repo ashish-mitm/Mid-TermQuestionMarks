@@ -12,16 +12,17 @@ def readCSV(file):
         return list_of_rows
 
 
-def writeCSV(file, data):
-    with open(file, 'a+', newline='') as myfile:
+def writeCSV(file, data, mode='a+'):
+    with open(file, mode, newline='') as myfile:
         wr = csv.writer(myfile, quoting=csv.QUOTE_ALL)
-        wr.writerow(data)
+        for d in data:
+            wr.writerow(d)
 
 
 def readDir(name):
     with os.scandir(name) as entries:
-        allfiles =[]
+        allfiles = []
         for entry in entries:
             allfiles.append(entry.name)
-            #print(entry.name)
+            # print(entry.name)
         return allfiles

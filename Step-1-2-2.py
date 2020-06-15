@@ -113,15 +113,15 @@ for co in Cos:
     res_list = list(map(add, res_list, temp))
 # totalCOsForAvg = 6
 # newList = [x / totalCOsForAvg for x in res_list]
-#avgListCOPO = list(map(truediv, res_list, avg_divider))
+# avgListCOPO = list(map(truediv, res_list, avg_divider))
 print(res_list)
 for i in range(0, len(avg_divider)):
     if avg_divider[i] is not 0:
         res_list[i] /= avg_divider[i]
-avgListCOPO=res_list.copy()
+avgListCOPO = res_list.copy()
 print(res_list)
 print(avg_divider)
-#print(avgListCOPO)
+# print(avgListCOPO)
 
 attn['AVG'] = avgListCOPO
 
@@ -156,5 +156,11 @@ with open('Step -2/COPOMapping.csv', 'a', newline='') as csv_file:
     for key, value in attn.items():
         step2List.append(key)
         step2List.extend(value)
+
+        # Replace all 0 with -
+        for idx, item in enumerate(step2List):
+            if item == 0:
+                step2List[idx] = '-'
+
         writer.writerow(step2List)
         step2List.clear()
