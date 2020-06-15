@@ -5,7 +5,9 @@ from operator import add, truediv
 
 from CSVreadwrite import *
 
-allMarksList = readCSV("Step -1/Info061603.csv")
+# allMarksList = readCSV("Step -1/Info061603.csv")
+
+allMarksList = readCSV("CO-PO-MIT/14 Batch IT/4/DB/Info51409.csv")
 
 MarksData = copy.deepcopy(allMarksList[1:])
 

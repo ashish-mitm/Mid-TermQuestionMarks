@@ -14,8 +14,8 @@ posINco = dict()
 totalSession = 0
 coWithSession = {}
 poSessions = {}
-data = readCSV("Step -1/CLKC.csv")
-
+#data = readCSV("Step -1/CLKC.csv")
+data = readCSV("CO-PO-MIT/14 Batch IT/4/DB/DB-CLKC.csv")
 # CO - PO Dictionary
 for i in range(1, 7):
     cosDict['CO' + str(i)] = data[i][3].split(',')

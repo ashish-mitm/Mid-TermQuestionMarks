@@ -1,0 +1,7 @@
+Course Code,CO No.,Course Outcomes,Pos/PSOs,CL,KC,Classroom session
+51409,CO1,Illustrate database design for applications and use of ER diagram.,"PO1,PSO3","U,Ap",C,7
+51409,CO2,"Apply relational database theory and be able to describe relational algebra expression, tuple and domain relation expression for queries.","PO1,PO2,PSO3",Ap,C,6
+51409,CO3,Apply various Normalization techniques.,"PO1,PO5",Ap,"C,P",9
+51409,CO4,Apply concurrency control & recovery mechanism for database problems.,"PO1,PO2",Ap,C,8
+51409,CO5,Discuss various concepts in query processing.,"PO1,PSO3","R,U",C,6
+51409,CO6,Compare various storage techniques in database.,PO1,"U,An",C,6
