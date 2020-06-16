@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93704c75-9a27-459d-bc1b-ae63f7e0ce7d" name="Default Changelist" comment="Upto All">
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/8/IDS/IDS-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Step -2/COAttainment.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Step -2/FinalOne.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Step -2/Info061603withAvg.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Step -2/POPSOAttain.csv" afterDir="false" />
+    <list default="true" id="93704c75-9a27-459d-bc1b-ae63f7e0ce7d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/6/OS/OS-14-Lab-Attain.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/6/VB/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/6/VB/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/6/VB/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/6/VB/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/6/VB/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/6/VB/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/6/VB/VB-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/OS/OS-15-Lab-Attain.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/VB/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/VB/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/VB/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/VB/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/VB/Info061604.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/VB/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/VB/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/VB/VB-CLKC.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/clkcMarksFilePath.py" beforeDir="false" afterPath="$PROJECT_DIR$/clkcMarksFilePath.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,17 +53,17 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\CO-PO-MIT\14 Batch IT\4\DB" />
-      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks" />
-      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\Step -1" />
-      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\Result-15\TH\Th New" />
-      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\Result-14\TH" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\Step -2\OS" />
       <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\Result-14\Lab" />
       <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\CO-PO-MIT\14 Batch IT\8\IDS" />
+      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\CO-PO-MIT\14 Batch IT\4\DB" />
+      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks" />
+      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\Step -1" />
+      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\Result-15\TH\Th New" />
     </key>
   </component>
   <component name="RunManager" selected="Python.FinalOne">
@@ -236,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592290380605</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Upto All">
+      <created>1592290648452</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1592290648452</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -258,30 +278,30 @@
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="413" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.736@0.0.1366.736" timestamp="1592212564569" />
-    <state x="515" y="0" key="CommitChangelistDialog2" timestamp="1592290531603">
+    <state x="515" y="0" key="CommitChangelistDialog2" timestamp="1592290646817">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="515" y="0" key="CommitChangelistDialog2/0.0.1366.736@0.0.1366.736" timestamp="1592290531603" />
+    <state x="515" y="0" key="CommitChangelistDialog2/0.0.1366.736@0.0.1366.736" timestamp="1592290646817" />
     <state x="522" y="267" key="Github.ShareDialog" timestamp="1592048592391">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="522" y="267" key="Github.ShareDialog/0.0.1366.736@0.0.1366.736" timestamp="1592048592391" />
-    <state width="1345" height="180" key="GridCell.Tab.0.bottom" timestamp="1592290622440">
+    <state width="1345" height="180" key="GridCell.Tab.0.bottom" timestamp="1592299258651">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1592290622440" />
-    <state width="1345" height="180" key="GridCell.Tab.0.center" timestamp="1592290622440">
+    <state width="1345" height="180" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1592299258651" />
+    <state width="1345" height="180" key="GridCell.Tab.0.center" timestamp="1592299258651">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1592290622440" />
-    <state width="1345" height="180" key="GridCell.Tab.0.left" timestamp="1592290622440">
+    <state width="1345" height="180" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1592299258651" />
+    <state width="1345" height="180" key="GridCell.Tab.0.left" timestamp="1592299258651">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1592290622440" />
-    <state width="1345" height="180" key="GridCell.Tab.0.right" timestamp="1592290622440">
+    <state width="1345" height="180" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1592299258651" />
+    <state width="1345" height="180" key="GridCell.Tab.0.right" timestamp="1592299258651">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1592290622440" />
+    <state width="1345" height="180" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1592299258651" />
     <state x="395" y="86" key="MultipleFileMergeDialog" timestamp="1592290106866">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
@@ -290,10 +310,10 @@
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="186" y="14" key="SettingsEditor/0.0.1366.736@0.0.1366.736" timestamp="1592204447254" />
-    <state x="550" y="92" key="Vcs.Push.Dialog.v2" timestamp="1592221837521">
+    <state x="550" y="92" key="Vcs.Push.Dialog.v2" timestamp="1592290654060">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="550" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.736@0.0.1366.736" timestamp="1592221837521" />
+    <state x="550" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.736@0.0.1366.736" timestamp="1592290654060" />
     <state x="550" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1592148077240">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
