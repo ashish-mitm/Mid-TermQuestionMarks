@@ -1,0 +1,7 @@
+Course Code,CO No.,Course Outcomes,Pos/PSOs,CL,KC,Classroom session
+61808,CO1,"Gain Understanding of Basic Issues, Concepts, Principles, and Techniques in Intrusion Detection.","PO1,PSO2",U,C,6
+61808,CO2,Identify TCP and UDP services running or listening on a network.,"PO1,PO2,PSO2","U,An",F,8
+61808,CO3,Evaluate Intrusion Detection Systems for Particular Security Requirements.,"PO1,PO2,PSO2",E,C,7
+61808,CO4,"Detect, identify, resolve and document network intrusions.","PO1,PSO2","U,Ap","C,P",6
+61808,CO5,Determine which networks are alive.,"PO1,PSO2",An,C,9
+61808,CO6,Implement procedures to secure network systems.,"PO1,PSO2",Ap,P,6
