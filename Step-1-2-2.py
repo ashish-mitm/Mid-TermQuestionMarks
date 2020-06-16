@@ -20,7 +20,7 @@ data = readCSV(clkcMarksFilePath.clkcFilePath)
 # CO - PO Dictionary
 for i in range(1, 7):
     cosDict['CO' + str(i)] = data[i][3].split(',')
-
+#print(cosDict)
 # Total Session
 for i in range(1, 7):
     totalSession += int(data[i][6])
@@ -39,6 +39,7 @@ pos.extend(data[6][3].split(','))
 pos = list(dict.fromkeys(pos))
 list.sort(pos)
 
+print(pos)
 # Looking for POs in Dictionary : To be Printed in Column 0 and 1
 # print(pos)
 for po in pos:
