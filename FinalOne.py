@@ -1,6 +1,8 @@
 from CSVreadwrite import *
+import clkcMarksFilePath
 
-clkcData = readCSV("CO-PO-MIT/14 Batch IT/4/DB/DB-CLKC.csv")
+#Read CLKC Data
+clkcData = readCSV(clkcMarksFilePath.clkcFilePath)
 print(clkcData)
 
 mapStrength = readCSV("Step -2/MappingStrength.csv")

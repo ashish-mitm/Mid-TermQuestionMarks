@@ -1,11 +1,12 @@
+import csv
 import os
 import random
 import time
 
 from CSVreadwrite import readDir, readCSV, writeCSV
 
-path = "Result-15/TH/Th New"
-infopath = "Result-15/ThInfoMarks- 15/Info5thsem- 15"
+path = "Result-14/TH/7thsem"
+infopath = "Result-14/ThInfoMarks- 14/Info7thsem- 14"
 allfiles = readDir(path)
 # print(allfiles)
 for file in allfiles:
@@ -21,23 +22,37 @@ for file in allfiles:
     cleanData.append("Q4")
     cleanData.append("Q5")
     # Assumed Internal Marks If  Assessment is not known
-    cleanData.append("Assumed Internal")
+    # cleanData.append("Assumed Internal")
 
     cleanData.append("Internal Marks")
     cleanData.append("End Sem")
-    writeCSV(infopath + "/" + 'Info' + file, cleanData)
+    # writeCSV(infopath + "/" + 'Info' + file, cleanData, mode= 'w')
+    with open(infopath + "/" + 'Info' + file, 'w', newline='') as myfile:
+        wr = csv.writer(myfile, quoting=csv.QUOTE_ALL)
+        wr.writerow(cleanData)
+
     for row in data:
         # print(row)
         cleanData.clear()
         mm = row[4]
+        assAtt = []
         if str(mm).isdecimal():
             v = int(mm)
             if 29 <= v <= 30:
                 v = v - 10
+                assAtt.append(5)
+                assAtt.append(5)
             elif 27 <= v <= 28:
                 v = v - 9
+                assAtt.extend(random.sample(range(4, 6), 2))
             elif 20 < v <= 26:
                 v = v - 8
+                assAtt.append(4)
+                assAtt.append(4)
+            elif v <= 20:
+                v = v - 7
+                assAtt.extend(random.sample(range(3, 5), 2))
+
             N = []
             R = -1
             c = 0
@@ -49,13 +64,17 @@ for file in allfiles:
                 R = sum(N)
             cleanData.append(row[0])
             cleanData.append(row[1])
-            cleanData.append(row[2])
-            cleanData.append(row[3])
+            print(assAtt)
+            cleanData.append(str(assAtt[0]))
+            cleanData.append(str(assAtt[1]))
             cleanData.extend(N)
             # Save Assumed IA marks
             cleanData.append(v)
 
-            cleanData.append(row[4])
+            # cleanData.append(row[4])
             cleanData.append(row[5])
-            writeCSV(infopath + "/" + 'Info' + file, cleanData)
+            # writeCSV(infopath + "/" + 'Info' + file, cleanData, mode= 'a+')
+            with open(infopath + "/" + 'Info' + file, 'a+', newline='') as myfile:
+                wr = csv.writer(myfile, quoting=csv.QUOTE_ALL)
+                wr.writerow(cleanData)
             print(c, N, R, cleanData)
