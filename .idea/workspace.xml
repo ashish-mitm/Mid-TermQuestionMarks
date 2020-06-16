@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="93704c75-9a27-459d-bc1b-ae63f7e0ce7d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clkcMarksFilePath.py" beforeDir="false" afterPath="$PROJECT_DIR$/clkcMarksFilePath.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +27,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -165,18 +165,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -230,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592221758216</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Upto All">
+      <created>1592223158118</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592223158118</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -244,38 +239,42 @@
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="427" y="179" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.736@0.0.1366.736" timestamp="1591949467775" />
+    <state x="363" y="108" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1592289069225">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="363" y="108" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.736@0.0.1366.736" timestamp="1592289069225" />
     <state x="413" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592212564569">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="413" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.736@0.0.1366.736" timestamp="1592212564569" />
-    <state x="676" y="0" key="CommitChangelistDialog2" timestamp="1592221754512">
+    <state x="676" y="0" key="CommitChangelistDialog2" timestamp="1592223157384">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="676" y="0" key="CommitChangelistDialog2/0.0.1366.736@0.0.1366.736" timestamp="1592221754512" />
+    <state x="676" y="0" key="CommitChangelistDialog2/0.0.1366.736@0.0.1366.736" timestamp="1592223157384" />
     <state x="522" y="267" key="Github.ShareDialog" timestamp="1592048592391">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="522" y="267" key="Github.ShareDialog/0.0.1366.736@0.0.1366.736" timestamp="1592048592391" />
-    <state width="1345" height="180" key="GridCell.Tab.0.bottom" timestamp="1592221742491">
+    <state width="1345" height="180" key="GridCell.Tab.0.bottom" timestamp="1592290306224">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1592221742491" />
-    <state width="1345" height="180" key="GridCell.Tab.0.center" timestamp="1592221742491">
+    <state width="1345" height="180" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1592290306224" />
+    <state width="1345" height="180" key="GridCell.Tab.0.center" timestamp="1592290306224">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1592221742491" />
-    <state width="1345" height="180" key="GridCell.Tab.0.left" timestamp="1592221742491">
+    <state width="1345" height="180" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1592290306224" />
+    <state width="1345" height="180" key="GridCell.Tab.0.left" timestamp="1592290306224">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1592221742491" />
-    <state width="1345" height="180" key="GridCell.Tab.0.right" timestamp="1592221742491">
+    <state width="1345" height="180" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1592290306224" />
+    <state width="1345" height="180" key="GridCell.Tab.0.right" timestamp="1592290306224">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1592221742491" />
-    <state x="395" y="86" key="MultipleFileMergeDialog" timestamp="1592204432913">
+    <state width="1345" height="180" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1592290306224" />
+    <state x="395" y="86" key="MultipleFileMergeDialog" timestamp="1592290106866">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="395" y="86" key="MultipleFileMergeDialog/0.0.1366.736@0.0.1366.736" timestamp="1592204432913" />
+    <state x="395" y="86" key="MultipleFileMergeDialog/0.0.1366.736@0.0.1366.736" timestamp="1592290106866" />
     <state x="186" y="14" key="SettingsEditor" timestamp="1592204447254">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
@@ -289,9 +288,9 @@
     </state>
     <state x="391" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.736@0.0.1366.736" timestamp="1591975326630" />
     <state x="550" y="282" key="com.intellij.ide.util.TipDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1592148077240" />
-    <state x="494" y="288" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592204398007">
+    <state x="494" y="288" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592290100074">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="494" y="288" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.736@0.0.1366.736" timestamp="1592204398007" />
+    <state x="494" y="288" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.736@0.0.1366.736" timestamp="1592290100074" />
   </component>
 </project>
