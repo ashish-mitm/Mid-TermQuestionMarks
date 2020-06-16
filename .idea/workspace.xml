@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93704c75-9a27-459d-bc1b-ae63f7e0ce7d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="93704c75-9a27-459d-bc1b-ae63f7e0ce7d" name="Default Changelist" comment="Upto All">
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/8/IDS/IDS-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Step -2/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Step -2/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Step -2/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Step -2/POPSOAttain.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/clkcMarksFilePath.py" beforeDir="false" afterPath="$PROJECT_DIR$/clkcMarksFilePath.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +36,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/4/DB" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/8/IDS" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -225,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592223158118</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Upto All">
+      <created>1592290380605</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1592290380605</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -247,30 +258,30 @@
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="413" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.736@0.0.1366.736" timestamp="1592212564569" />
-    <state x="676" y="0" key="CommitChangelistDialog2" timestamp="1592223157384">
+    <state x="515" y="0" key="CommitChangelistDialog2" timestamp="1592290531603">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="676" y="0" key="CommitChangelistDialog2/0.0.1366.736@0.0.1366.736" timestamp="1592223157384" />
+    <state x="515" y="0" key="CommitChangelistDialog2/0.0.1366.736@0.0.1366.736" timestamp="1592290531603" />
     <state x="522" y="267" key="Github.ShareDialog" timestamp="1592048592391">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="522" y="267" key="Github.ShareDialog/0.0.1366.736@0.0.1366.736" timestamp="1592048592391" />
-    <state width="1345" height="180" key="GridCell.Tab.0.bottom" timestamp="1592290306224">
+    <state width="1345" height="180" key="GridCell.Tab.0.bottom" timestamp="1592290622440">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1592290306224" />
-    <state width="1345" height="180" key="GridCell.Tab.0.center" timestamp="1592290306224">
+    <state width="1345" height="180" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1592290622440" />
+    <state width="1345" height="180" key="GridCell.Tab.0.center" timestamp="1592290622440">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1592290306224" />
-    <state width="1345" height="180" key="GridCell.Tab.0.left" timestamp="1592290306224">
+    <state width="1345" height="180" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1592290622440" />
+    <state width="1345" height="180" key="GridCell.Tab.0.left" timestamp="1592290622440">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1592290306224" />
-    <state width="1345" height="180" key="GridCell.Tab.0.right" timestamp="1592290306224">
+    <state width="1345" height="180" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1592290622440" />
+    <state width="1345" height="180" key="GridCell.Tab.0.right" timestamp="1592290622440">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1592290306224" />
+    <state width="1345" height="180" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1592290622440" />
     <state x="395" y="86" key="MultipleFileMergeDialog" timestamp="1592290106866">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
