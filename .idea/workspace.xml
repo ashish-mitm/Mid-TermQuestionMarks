@@ -2,62 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93704c75-9a27-459d-bc1b-ae63f7e0ce7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/5/Web/COAttainment.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/5/Web/COPOMapping.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/5/Web/FinalOne.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/5/Web/Info061603withAvg.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/5/Web/MappingStrength.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/5/Web/POPSOAttain.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/5/Web/WEB-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/7/DCA/COAttainment.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/7/DCA/COPOMapping.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/7/DCA/DCA-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/7/DCA/FinalOne.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/7/DCA/Info061603withAvg.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/7/DCA/Info61707.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/7/DCA/MappingStrength.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/7/DCA/POPSOAttain.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/8/XML/COAttainment.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/8/XML/COPOMapping.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/8/XML/FinalOne.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/8/XML/Info061603withAvg.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/8/XML/MappingStrength.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/8/XML/POPSOAttain.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/8/XML/XML-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/5/Web/COAttainment.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/5/Web/COPOMapping.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/5/Web/FinalOne.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/5/Web/Info061603withAvg.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/5/Web/Info61502.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/5/Web/MappingStrength.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/5/Web/POPSOAttain.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/5/Web/WEB-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/7/DCA/COAttainment.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/7/DCA/COPOMapping.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/7/DCA/DCA-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/7/DCA/FinalOne.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/7/DCA/Info061603withAvg.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/7/DCA/Info61707.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/7/DCA/MappingStrength.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/7/DCA/POPSOAttain.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/8/XML/COAttainment.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/8/XML/COPOMapping.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/8/XML/FinalOne.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/8/XML/Info061603withAvg.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/8/XML/Info61809.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/8/XML/MappingStrength.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/8/XML/POPSOAttain.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/8/XML/XML-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/EC-8th-CN/CN-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/EC-8th-CN/Info51813.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Step -2/COAttainment.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Step -2/COPOMapping.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Step -2/FinalOne.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Step -2/Info061603withAvg.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Step -2/MappingStrength.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Step -2/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/4/DS/DS-14-Lab-Attain.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/4/DS/DS-15-Lab-Attain.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clkcMarksFilePath.py" beforeDir="false" afterPath="$PROJECT_DIR$/clkcMarksFilePath.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -300,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592299422686</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Upto All">
+      <created>1592304009560</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1592304009560</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -322,30 +276,30 @@
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="413" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.736@0.0.1366.736" timestamp="1592212564569" />
-    <state x="515" y="0" key="CommitChangelistDialog2" timestamp="1592299421099">
+    <state x="515" y="0" key="CommitChangelistDialog2" timestamp="1592304007000">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="515" y="0" key="CommitChangelistDialog2/0.0.1366.736@0.0.1366.736" timestamp="1592299421099" />
+    <state x="515" y="0" key="CommitChangelistDialog2/0.0.1366.736@0.0.1366.736" timestamp="1592304007000" />
     <state x="522" y="267" key="Github.ShareDialog" timestamp="1592048592391">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="522" y="267" key="Github.ShareDialog/0.0.1366.736@0.0.1366.736" timestamp="1592048592391" />
-    <state width="1345" height="180" key="GridCell.Tab.0.bottom" timestamp="1592303519905">
+    <state width="1345" height="180" key="GridCell.Tab.0.bottom" timestamp="1592304414672">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1592303519905" />
-    <state width="1345" height="180" key="GridCell.Tab.0.center" timestamp="1592303519905">
+    <state width="1345" height="180" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1592304414672" />
+    <state width="1345" height="180" key="GridCell.Tab.0.center" timestamp="1592304414672">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1592303519905" />
-    <state width="1345" height="180" key="GridCell.Tab.0.left" timestamp="1592303519905">
+    <state width="1345" height="180" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1592304414672" />
+    <state width="1345" height="180" key="GridCell.Tab.0.left" timestamp="1592304414672">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1592303519905" />
-    <state width="1345" height="180" key="GridCell.Tab.0.right" timestamp="1592303519905">
+    <state width="1345" height="180" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1592304414672" />
+    <state width="1345" height="180" key="GridCell.Tab.0.right" timestamp="1592304414672">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1592303519905" />
+    <state width="1345" height="180" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1592304414672" />
     <state x="395" y="86" key="MultipleFileMergeDialog" timestamp="1592290106866">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
@@ -354,10 +308,10 @@
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="186" y="14" key="SettingsEditor/0.0.1366.736@0.0.1366.736" timestamp="1592204447254" />
-    <state x="550" y="92" key="Vcs.Push.Dialog.v2" timestamp="1592299424694">
+    <state x="550" y="92" key="Vcs.Push.Dialog.v2" timestamp="1592304011512">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="550" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.736@0.0.1366.736" timestamp="1592299424694" />
+    <state x="550" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.736@0.0.1366.736" timestamp="1592304011512" />
     <state x="550" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1592148077240">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
