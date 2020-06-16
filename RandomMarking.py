@@ -5,8 +5,12 @@ import time
 
 from CSVreadwrite import readDir, readCSV, writeCSV
 
-path = "Result-14/TH/7thsem"
-infopath = "Result-14/ThInfoMarks- 14/Info7thsem- 14"
+# path = "Result-14/TH/7thsem"
+# infopath = "Result-14/ThInfoMarks- 14/Info7thsem- 14"
+path = "CO-PO-MIT/EC-8th-CN/"
+infopath = "CO-PO-MIT/EC-8th-CN/"
+
+
 allfiles = readDir(path)
 # print(allfiles)
 for file in allfiles:

@@ -1,0 +1,7 @@
+Course Code,CO No.,Course Outcomes,Pos/PSOs,CL,KC,Classroom session
+06 1707,CO1,To Understand Different forms of Computing Distributed Computing Programming.,"PO1,PO2",U,F,2
+06 1707,CO2,To apply how to access remote methods from Server using RMI,"PO1,PO2,PO3,POS1",Ap,"F,C",4
+06 1707,CO3,"To evaluateUsing Servlets and jsp its life cycle, Deploying Servlets on Web Server,","PO1,PO2,PO3,PO4,POS1",E,"C,P",8
+06 1707,CO4,To analyze the need of various server side technologies like JSP and Servlet to develop applications.,"PO2,PO3,PO5,POS1",An,"C,P",9
+06 1707,CO5,"To understand EJB Overview, Client, view of a Session Bean, Session Bean Component Contract. Session Bean Lifecycle, Client view of an Entity, Component Contract for Container","PO2,PO4,PO5,POS1",U,C,8
+06 1707,CO6,"To analyze Entity Bean Lifecycle, Entity Beans, EJB-QL, MessageDriven Bean Component Contract, Transaction, Exceptions, Enterprise Bean Environment, Security Management.","PO3,PO4,PO4,POS1",An,C,12
