@@ -1,286 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93704c75-9a27-459d-bc1b-ae63f7e0ce7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/2/FIT/Info61201.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/3/OOP/Info51301.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/4/CAO/Info51402.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/4/DB/COAttainment.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/4/DB/COPOMapping.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/4/DB/DB-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/4/DB/Info51409.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/4/DB/MappingStrength.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/4/DB/POPSOAttain.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/4/DS/Info51403.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/5/CN/Info51513.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/5/Comp/Info51516.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/5/FLAT/Info51511.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/5/Sys/Info51505.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/5/Web/Info61502.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/6/AI/Info51617.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/6/DAA/Info51606.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/6/DMW/Info61606.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/6/OS/Info61603.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/6/SE/Info51614.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/6/VB/Info61604.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/7/Crypto/Info51718.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/7/IS/Info61705.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/7/MIS/Info61722.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/8/ECO/Info61818.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/8/IDS/Info61808.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/8/MM/Info61810.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/8/NS/Info61814.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/8/XML/Info61809.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/Lab/011101P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/Lab/011102P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/Lab/021101P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/Lab/021103P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/Lab/021202P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/Lab/031201P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/Lab/031411P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/Lab/041301P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/Lab/041302P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/Lab/041404P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/Lab/041503P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/Lab/051301P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/Lab/051403P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/Lab/051409P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/Lab/051505P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/Lab/051516P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/Lab/051614P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/Lab/051617P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/Lab/061201P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/Lab/061502P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/Lab/061603P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/Lab/061604P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/Lab/061809P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/Lab/061825P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/Lab/221201P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/Lab/231101P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/Lab/7thsem/61707P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/Lab/7thsem/61724.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/Lab/7thsem/61726.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/11101.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/11102.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/21101.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/211101.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/211202.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/211303.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/211405.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/21202.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/221201.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/231101.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/241205.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/241301.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/241306.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/31201.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/31411.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/41301.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/41302.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/41404.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/41503.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/51301.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/51402.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/51403.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/51409.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/51505.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/51511.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/51513.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/51516.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/51606.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/51614.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/51617.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/61201.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/61502.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/61603.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/61604.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/61606.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/61808.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/61809.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/61810.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/61814.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/61818.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/7thsem/51718.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/7thsem/61702.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/7thsem/61705.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/7thsem/61707.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/7thsem/61711.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/TH/7thsem/61722.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info11101.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info11102.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info21101.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info211101.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info211202.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info211303.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info211405.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info21202.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info221201.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info231101.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info241205.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info241301.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info241306.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info31201.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info31411.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info41301.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info41302.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info41404.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info41503.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info51301.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info51402.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info51403.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info51409.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info51505.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info51511.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info51513.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info51516.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info51606.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info51614.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info51617.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info61201.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info61502.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info61603.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info61604.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info61606.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info61808.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info61809.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info61810.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info61814.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info61818.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info7thsem- 14/Info51718.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info7thsem- 14/Info61702.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info7thsem- 14/Info61705.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info7thsem- 14/Info61707.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info7thsem- 14/Info61711.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info7thsem- 14/Info61722.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/Lab/011101P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/Lab/011102P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/Lab/021101P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/Lab/021103P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/Lab/021202P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/Lab/031201P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/Lab/031411P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/Lab/041301P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/Lab/041302P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/Lab/041404P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/Lab/051301P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/Lab/051403P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/Lab/051409P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/Lab/051614P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/Lab/051617P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/Lab/061201P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/Lab/061603P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/Lab/061604P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/Lab/221201P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/Lab/231101P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/Lab/L New/41503P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/Lab/L New/51505P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/Lab/L New/51516P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/Lab/L New/61502P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/Lab/L New/61707P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/Lab/L New/61724.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/Lab/L New/61726.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/Lab/L New/61809P.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/Lab/L New/61825.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/011101.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/011102.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/021101.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/021202.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/031201.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/031411.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/041301.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/041302.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/041404.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/051301.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/051402.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/051403.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/051409.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/051606.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/051614.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/051617.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/061201.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/061603.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/061604.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/061606.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/211101.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/211202.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/211303.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/211405.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/221201.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/231101.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/241205.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/241301.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/241306.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/Th New/241702.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/Th New/41503.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/Th New/51505.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/Th New/51511.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/Th New/51513.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/Th New/51516.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/Th New/51718.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/Th New/61502.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/Th New/61705.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/Th New/61707.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/Th New/61711.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/Th New/61722.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/Th New/61808.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/Th New/61809.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/Th New/61810.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/Th New/61814.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/TH/Th New/61818.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info011101.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info011102.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info021101.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info021202.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info031201.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info031411.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info041301.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info041302.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info041404.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info051301.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info051402.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info051403.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info051409.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info051606.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info051614.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info051617.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info061201.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info061603.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info061604.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info061606.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info211101.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info211202.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info211303.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info211405.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info221201.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info231101.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info241205.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info241301.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info241306.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info241702.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info41503.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info51505.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info51511.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info51513.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info51516.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info51718.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61502.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61705.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61707.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61711.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61722.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61808.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61809.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61810.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61814.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61818.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FinalOne.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Step -2/OS/COAttainment.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Step -2/OS/POPSOAttain.csv" afterDir="false" />
+    <list default="true" id="93704c75-9a27-459d-bc1b-ae63f7e0ce7d" name="Default Changelist" comment="CO-PO Mapping : Step 2 Complete - 3 in progress">
+      <change afterPath="$PROJECT_DIR$/clkcMarksFilePath.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Mid-TermQuestionMarks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Mid-TermQuestionMarks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Step -1/Info061603withAvg.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Step -1/Info061603withAvg.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/4/DB/COAttainment.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/4/DB/COAttainment.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/4/DB/COPOMapping.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/4/DB/COPOMapping.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/4/DB/DB-CLKC.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/4/DB/DB-CLKC.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/4/DB/MappingStrength.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/4/DB/MappingStrength.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/4/DB/POPSOAttain.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/4/DB/POPSOAttain.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/7/Crypto/Info51718.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/7/Crypto/Info51718.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/7/IS/Info61705.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/7/IS/Info61705.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/7/MIS/Info61722.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/7/MIS/Info61722.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info7thsem- 14/Info51718.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info7thsem- 14/Info51718.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info7thsem- 14/Info61702.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info7thsem- 14/Info61702.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info7thsem- 14/Info61705.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info7thsem- 14/Info61707.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info7thsem- 14/Info61707.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info7thsem- 14/Info61711.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info7thsem- 14/Info61711.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info7thsem- 14/Info61722.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-14/ThInfoMarks- 14/Info7thsem- 14/Info61722.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info241702.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info241702.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info41503.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info41503.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info51505.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info51505.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info51511.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info51511.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info51513.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info51513.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info51516.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info51516.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info51718.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info51718.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61502.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61502.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61705.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61705.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61707.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61707.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61711.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61711.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61722.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61722.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61808.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61808.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61809.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61809.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61810.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61810.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61814.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61814.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61818.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/Marks/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61818.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalOne.py" beforeDir="false" afterPath="$PROJECT_DIR$/FinalOne.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomMarking.py" beforeDir="false" afterPath="$PROJECT_DIR$/RandomMarking.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result-14/ThInfoMarks- 14/Info7thsem- 14/Info51718.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Result-14/ThInfoMarks- 14/Info7thsem- 14/Info51718.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result-14/ThInfoMarks- 14/Info7thsem- 14/Info61702.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Result-14/ThInfoMarks- 14/Info7thsem- 14/Info61702.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result-14/ThInfoMarks- 14/Info7thsem- 14/Info61705.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Result-14/ThInfoMarks- 14/Info7thsem- 14/Info61705.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result-14/ThInfoMarks- 14/Info7thsem- 14/Info61707.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Result-14/ThInfoMarks- 14/Info7thsem- 14/Info61707.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result-14/ThInfoMarks- 14/Info7thsem- 14/Info61711.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Result-14/ThInfoMarks- 14/Info7thsem- 14/Info61711.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result-14/ThInfoMarks- 14/Info7thsem- 14/Info61722.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Result-14/ThInfoMarks- 14/Info7thsem- 14/Info61722.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info241702.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info241702.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info41503.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info41503.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info51505.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info51505.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info51511.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info51511.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info51513.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info51513.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info51516.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info51516.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info51718.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info51718.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61502.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61502.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61705.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61705.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61707.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61707.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61711.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61711.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61722.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61722.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61808.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61808.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61809.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61809.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61810.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61810.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61814.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61814.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61818.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Result-15/ThInfoMarks- 15/Info5thsem- 15/Info61818.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Step -2/COAttainment.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Step -2/COAttainment.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Step -2/COPOMapping.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Step -2/OS/COPOMapping.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Step -2/MappingStrength.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Step -2/OS/MappingStrength.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Step -2/OS/COAttainment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Step -2/OS/COPOMapping.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Step -2/OS/MappingStrength.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Step -2/OS/POPSOAttain.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Step -2/POPSOAttain.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Step -2/POPSOAttain.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Step-1-2-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Step-1-2-2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Step-2-2-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Step-2-2-3.py" afterDir="false" />
@@ -302,30 +88,25 @@
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1dD2KDFf44MGIwMuh3pypPnszWT" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/4/DB" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Step -1" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\CO-PO-MIT\14 Batch IT\4\DB" />
-      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks" />
+      <recent name="$PROJECT_DIR$/Step -1" />
       <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\Step -1" />
       <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\Result-15\TH\Th New" />
       <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\Result-14\TH" />
+      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\Step -2\OS" />
       <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\Result-14\Lab" />
       <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks" />
     </key>
@@ -446,18 +227,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -469,103 +238,134 @@
       <option name="presentableId" value="Default" />
       <updated>1591945276799</updated>
     </task>
-    <task id="LOCAL-00001" summary="Co-Attain for each CO">
-      <created>1592208052153</created>
+    <task id="LOCAL-00001" summary="CO-PO Mapping : Step 2 Complete">
+      <created>1592158635525</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1592208052153</updated>
+      <updated>1592158635525</updated>
     </task>
-    <task id="LOCAL-00002" summary="Upto All">
-      <created>1592212032132</created>
+    <task id="LOCAL-00002" summary="CO-PO Mapping : Step 2 Complete">
+      <created>1592158700392</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1592212032132</updated>
+      <updated>1592158700392</updated>
     </task>
-    <task id="LOCAL-00003" summary="Upto All">
-      <created>1592212504257</created>
+    <task id="LOCAL-00003" summary="CO-PO Mapping : Step 2 Complete">
+      <created>1592158776365</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1592212504257</updated>
+      <updated>1592158776365</updated>
     </task>
-    <task id="LOCAL-00004" summary="Upto All">
-      <created>1592215638176</created>
+    <task id="LOCAL-00004" summary="CO-PO Mapping : Step 2 Complete">
+      <created>1592158783472</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1592215638176</updated>
+      <updated>1592158783472</updated>
     </task>
-    <task id="LOCAL-00005" summary="Upto All">
-      <created>1592215687404</created>
+    <task id="LOCAL-00005" summary="CO-PO Mapping : Step 3 Begin">
+      <created>1592198176850</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1592215687404</updated>
+      <updated>1592198176850</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="CO-PO Mapping : Step 2 Complete - 3 in progress">
+      <created>1592198621395</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592198621395</updated>
+    </task>
+    <task id="LOCAL-00007" summary="CO-PO Mapping : Step 2 Complete - 3 in progress">
+      <created>1592203774301</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592203774301</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Co-Attain for each CO" />
-    <MESSAGE value="Upto All" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upto All" />
+    <MESSAGE value="CO-PO Mapping : Step 2 Complete" />
+    <MESSAGE value="CO-PO Mapping : Step 3 Begin" />
+    <MESSAGE value="CO-PO Mapping : Step 2 Complete - 3 in progress" />
+    <option name="LAST_COMMIT_MESSAGE" value="CO-PO Mapping : Step 2 Complete - 3 in progress" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="427" y="179" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591949467775">
-      <screen x="0" y="0" width="1366" height="736" />
+    <state x="600" y="256" width="537" height="391" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592281741596">
+      <screen x="0" y="0" width="1920" height="1053" />
     </state>
     <state x="427" y="179" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.736@0.0.1366.736" timestamp="1591949467775" />
-    <state x="413" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592212564569">
-      <screen x="0" y="0" width="1366" height="736" />
+    <state x="600" y="256" width="537" height="391" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1053@0.0.1920.1053" timestamp="1592281741596" />
+    <state x="989" y="126" width="695" height="803" key="CommitChangelistDialog2" timestamp="1592203928581">
+      <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state x="413" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.736@0.0.1366.736" timestamp="1592212564569" />
-    <state x="677" y="0" key="CommitChangelistDialog2" timestamp="1592215686735">
-      <screen x="0" y="0" width="1366" height="736" />
+    <state x="989" y="126" width="695" height="803" key="CommitChangelistDialog2/0.0.1920.1053@0.0.1920.1053" timestamp="1592203928581" />
+    <state x="732" y="281" width="424" height="482" key="FileChooserDialogImpl" timestamp="1592149529731">
+      <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state x="677" y="0" key="CommitChangelistDialog2/0.0.1366.736@0.0.1366.736" timestamp="1592215686735" />
+    <state x="732" y="281" width="424" height="482" key="FileChooserDialogImpl/0.0.1920.1053@0.0.1920.1053" timestamp="1592149529731" />
     <state x="522" y="267" key="Github.ShareDialog" timestamp="1592048592391">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="522" y="267" key="Github.ShareDialog/0.0.1366.736@0.0.1366.736" timestamp="1592048592391" />
-    <state width="1345" height="180" key="GridCell.Tab.0.bottom" timestamp="1592221742491">
-      <screen x="0" y="0" width="1366" height="736" />
+    <state width="1897" height="278" key="GridCell.Tab.0.bottom" timestamp="1592283478724">
+      <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1592221742491" />
-    <state width="1345" height="180" key="GridCell.Tab.0.center" timestamp="1592221742491">
-      <screen x="0" y="0" width="1366" height="736" />
+    <state width="1345" height="194" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1592048657435" />
+    <state width="1897" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1592283478724" />
+    <state width="1897" height="278" key="GridCell.Tab.0.center" timestamp="1592283478723">
+      <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1592221742491" />
-    <state width="1345" height="180" key="GridCell.Tab.0.left" timestamp="1592221742491">
-      <screen x="0" y="0" width="1366" height="736" />
+    <state width="1345" height="194" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1592048657434" />
+    <state width="1897" height="278" key="GridCell.Tab.0.center/0.0.1920.1053@0.0.1920.1053" timestamp="1592283478723" />
+    <state width="1897" height="278" key="GridCell.Tab.0.left" timestamp="1592283478722">
+      <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1592221742491" />
-    <state width="1345" height="180" key="GridCell.Tab.0.right" timestamp="1592221742491">
-      <screen x="0" y="0" width="1366" height="736" />
+    <state width="1345" height="194" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1592048657434" />
+    <state width="1897" height="278" key="GridCell.Tab.0.left/0.0.1920.1053@0.0.1920.1053" timestamp="1592283478722" />
+    <state width="1897" height="278" key="GridCell.Tab.0.right" timestamp="1592283478723">
+      <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1592221742491" />
-    <state x="395" y="86" key="MultipleFileMergeDialog" timestamp="1592204432913">
-      <screen x="0" y="0" width="1366" height="736" />
+    <state width="1345" height="194" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1592048657435" />
+    <state width="1897" height="278" key="GridCell.Tab.0.right/0.0.1920.1053@0.0.1920.1053" timestamp="1592283478723" />
+    <state x="1054" y="245" width="564" height="565" key="MultipleFileMergeDialog" timestamp="1592237063058">
+      <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state x="395" y="86" key="MultipleFileMergeDialog/0.0.1366.736@0.0.1366.736" timestamp="1592204432913" />
-    <state x="186" y="14" key="SettingsEditor" timestamp="1592204447254">
-      <screen x="0" y="0" width="1366" height="736" />
+    <state x="1054" y="245" width="564" height="565" key="MultipleFileMergeDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1592237063058" />
+    <state x="464" y="160" key="SettingsEditor" timestamp="1592237081054">
+      <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state x="186" y="14" key="SettingsEditor/0.0.1366.736@0.0.1366.736" timestamp="1592204447254" />
-    <state x="550" y="92" key="Vcs.Push.Dialog.v2" timestamp="1592215690203">
-      <screen x="0" y="0" width="1366" height="736" />
+    <state x="464" y="160" key="SettingsEditor/0.0.1920.1053@0.0.1920.1053" timestamp="1592237081054" />
+    <state x="936" y="264" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1592203701076">
+      <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state x="550" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.736@0.0.1366.736" timestamp="1592215690203" />
-    <state x="550" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1592148077240">
+    <state x="936" y="264" width="800" height="526" key="Vcs.Push.Dialog.v2/0.0.1920.1053@0.0.1920.1053" timestamp="1592203701076" />
+    <state x="550" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1592236917996">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
     <state x="391" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.736@0.0.1366.736" timestamp="1591975326630" />
-    <state x="550" y="282" key="com.intellij.ide.util.TipDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1592148077240" />
-    <state x="494" y="288" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592204398007">
-      <screen x="0" y="0" width="1366" height="736" />
+    <state x="550" y="282" key="com.intellij.ide.util.TipDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1592236917996" />
+    <state x="1132" y="448" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592237044660">
+      <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state x="494" y="288" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.736@0.0.1366.736" timestamp="1592204398007" />
+    <state x="1132" y="448" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1053@0.0.1920.1053" timestamp="1592237044660" />
   </component>
 </project>

@@ -1,5 +1,6 @@
 import math
 from operator import add, truediv
+import clkcMarksFilePath
 
 from CSVreadwrite import *
 
@@ -15,7 +16,7 @@ totalSession = 0
 coWithSession = {}
 poSessions = {}
 #data = readCSV("Step -1/CLKC.csv")
-data = readCSV("CO-PO-MIT/14 Batch IT/4/DB/DB-CLKC.csv")
+data = readCSV(clkcMarksFilePath.clkcFilePath)
 # CO - PO Dictionary
 for i in range(1, 7):
     cosDict['CO' + str(i)] = data[i][3].split(',')
