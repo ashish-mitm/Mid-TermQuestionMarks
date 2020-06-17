@@ -1,3 +1,3 @@
 
-clkcFilePath = "CO-PO-MIT/14 Batch IT/6/DMW/DMW-CLKC.csv"
-MarksFilePath = "CO-PO-MIT/14 Batch IT/6/DMW/Info61606.csv"
+clkcFilePath = "OOP/OOP-Attain/OOP-CLKC.csv"
+MarksFilePath = "OOP/OOP-Attain/15/LT/InfoLT-OOPs-15.csv"

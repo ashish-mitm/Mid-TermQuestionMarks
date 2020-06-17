@@ -2,33 +2,159 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93704c75-9a27-459d-bc1b-ae63f7e0ce7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/6/AI/AI-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/6/DMW/DMW-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/AI/AI-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/AI/COAttainment.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/AI/COPOMapping.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/AI/FinalOne.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/AI/Info051617.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/AI/Info061603withAvg.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/AI/MappingStrength.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/AI/POPSOAttain.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/DMW/COAttainment.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/DMW/COPOMapping.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/DMW/DMW-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/DMW/FinalOne.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/DMW/Info061603withAvg.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/DMW/Info061606.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/DMW/MappingStrength.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/DMW/POPSOAttain.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/FIT/FIT-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/CE-15/CE-OOPs-15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP 13/CE-OOPs-13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP 13/EC-OOPs-13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP 13/EE-OOPs-13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP 13/IT-OOPs-13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP 13/LT-OOPs-13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP 13/ME-OOPs-13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP 14/CE-OOPs-14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP 14/EC-OOPs-14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP 14/EE-OOPs-14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP 14/IT-OOPs-14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP 14/LT-OOPs-14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP 14/ME-OOPs-14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP 15/EC-OOPs-15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP 15/EE-OOPs-15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP 15/IT-OOPs-15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP 15/LT-OOPs-15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP 15/ME-OOPs-15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/CE/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/CE/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/CE/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/CE/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/CE/InfoCE-OOPs-13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/CE/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/CE/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/EC/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/EC/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/EC/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/EC/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/EC/InfoEC-OOPs-13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/EC/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/EC/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/EE/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/EE/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/EE/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/EE/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/EE/InfoEE-OOPs-13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/EE/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/EE/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/IT/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/IT/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/IT/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/IT/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/IT/InfoIT-OOPs-13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/IT/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/IT/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/LT/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/LT/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/LT/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/LT/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/LT/InfoLT-OOPs-13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/LT/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/LT/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/ME/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/ME/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/ME/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/ME/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/ME/InfoME-OOPs-13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/ME/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/13/ME/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/CE/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/CE/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/CE/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/CE/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/CE/InfoCE-OOPs-14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/CE/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/CE/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/EC/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/EC/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/EC/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/EC/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/EC/InfoEC-OOPs-14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/EC/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/EC/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/EE/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/EE/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/EE/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/EE/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/EE/InfoEE-OOPs-14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/EE/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/EE/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/IT/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/IT/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/IT/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/IT/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/IT/InfoIT-OOPs-14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/IT/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/IT/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/LT/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/LT/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/LT/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/LT/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/LT/InfoLT-OOPs-14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/LT/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/LT/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/ME/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/ME/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/ME/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/ME/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/ME/InfoME-OOPs-14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/ME/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/14/ME/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/15/CE/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/15/CE/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/15/CE/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/15/CE/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/15/CE/InfoCE-OOPs-15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/15/CE/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/15/CE/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/15/EC/InfoEC-OOPs-15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/15/EE/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/15/EE/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/15/EE/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/15/EE/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/15/EE/InfoEE-OOPs-15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/15/EE/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/15/EE/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/15/IT/InfoIT-OOPs-15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/15/LT/InfoLT-OOPs-15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/15/ME/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/15/ME/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/15/ME/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/15/ME/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/15/ME/InfoME-OOPs-15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/15/ME/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/15/ME/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Attain/OOP-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Marks-13/InfoCE-OOPs-13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Marks-13/InfoEC-OOPs-13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Marks-13/InfoEE-OOPs-13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Marks-13/InfoIT-OOPs-13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Marks-13/InfoLT-OOPs-13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Marks-13/InfoME-OOPs-13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Marks-14/InfoCE-OOPs-14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Marks-14/InfoEC-OOPs-14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Marks-14/InfoEE-OOPs-14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Marks-14/InfoIT-OOPs-14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Marks-14/InfoLT-OOPs-14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Marks-14/InfoME-OOPs-14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Marks-15/InfoCE-OOPs-15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Marks-15/InfoEC-OOPs-15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Marks-15/InfoEE-OOPs-15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Marks-15/InfoIT-OOPs-15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Marks-15/InfoLT-OOPs-15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP-Marks-15/InfoME-OOPs-15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Step -2/COAttainment.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Step -2/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Step -2/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Step -2/Info061603withAvg.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Step -2/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Step -2/POPSOAttain.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Step -2/COAttainment.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Step -2/COAttainment.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Step -2/FinalOne.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Step -2/FinalOne.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Step -2/Info061603withAvg.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Step -2/Info061603withAvg.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Step -2/POPSOAttain.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Step -2/POPSOAttain.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomMarking.py" beforeDir="false" afterPath="$PROJECT_DIR$/RandomMarking.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/clkcMarksFilePath.py" beforeDir="false" afterPath="$PROJECT_DIR$/clkcMarksFilePath.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,21 +192,21 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/8/IDS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks" />
+      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\CO-PO-MIT\14 Batch IT\8\IDS" />
+      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\CO-PO-MIT\14 Batch IT\4\DB" />
+      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\Step -1" />
+      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\Result-15\TH\Th New" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\Step -2\OS" />
       <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\Result-14\Lab" />
       <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\CO-PO-MIT\14 Batch IT\8\IDS" />
-      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\CO-PO-MIT\14 Batch IT\4\DB" />
-      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks" />
-      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\Step -1" />
-      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\Result-15\TH\Th New" />
     </key>
   </component>
   <component name="RunManager" selected="Python.FinalOne">
@@ -322,7 +448,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592315973980</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Upto All">
+      <created>1592385594621</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1592385594621</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -344,30 +477,30 @@
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="413" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.736@0.0.1366.736" timestamp="1592212564569" />
-    <state x="515" y="0" key="CommitChangelistDialog2" timestamp="1592315972291">
+    <state x="515" y="0" key="CommitChangelistDialog2" timestamp="1592385592153">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="515" y="0" key="CommitChangelistDialog2/0.0.1366.736@0.0.1366.736" timestamp="1592315972291" />
+    <state x="515" y="0" key="CommitChangelistDialog2/0.0.1366.736@0.0.1366.736" timestamp="1592385592153" />
     <state x="522" y="267" key="Github.ShareDialog" timestamp="1592048592391">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="522" y="267" key="Github.ShareDialog/0.0.1366.736@0.0.1366.736" timestamp="1592048592391" />
-    <state width="1345" height="180" key="GridCell.Tab.0.bottom" timestamp="1592385569166">
+    <state width="1345" height="180" key="GridCell.Tab.0.bottom" timestamp="1592397671854">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1592385569166" />
-    <state width="1345" height="180" key="GridCell.Tab.0.center" timestamp="1592385569166">
+    <state width="1345" height="180" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1592397671854" />
+    <state width="1345" height="180" key="GridCell.Tab.0.center" timestamp="1592397671854">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1592385569166" />
-    <state width="1345" height="180" key="GridCell.Tab.0.left" timestamp="1592385569166">
+    <state width="1345" height="180" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1592397671854" />
+    <state width="1345" height="180" key="GridCell.Tab.0.left" timestamp="1592397671853">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1592385569166" />
-    <state width="1345" height="180" key="GridCell.Tab.0.right" timestamp="1592385569166">
+    <state width="1345" height="180" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1592397671853" />
+    <state width="1345" height="180" key="GridCell.Tab.0.right" timestamp="1592397671854">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1592385569166" />
+    <state width="1345" height="180" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1592397671854" />
     <state x="395" y="86" key="MultipleFileMergeDialog" timestamp="1592290106866">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
@@ -376,10 +509,10 @@
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="186" y="14" key="SettingsEditor/0.0.1366.736@0.0.1366.736" timestamp="1592204447254" />
-    <state x="550" y="92" key="Vcs.Push.Dialog.v2" timestamp="1592315975990">
+    <state x="550" y="92" key="Vcs.Push.Dialog.v2" timestamp="1592385628544">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="550" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.736@0.0.1366.736" timestamp="1592315975990" />
+    <state x="550" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.736@0.0.1366.736" timestamp="1592385628544" />
     <state x="550" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1592148077240">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
