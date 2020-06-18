@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93704c75-9a27-459d-bc1b-ae63f7e0ce7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FIT/16/1st Sem/FIT-16-CE-EC-ME-LT.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FIT/16/1st Sem/InfoFIT-16-CE-EC-ME-LT.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FIT/16/2nd Sem/FIT-16-IT-EE.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FIT/16/2nd Sem/InfoFIT-16-IT-EE.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FIT/FIT-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FIT/17/1st Sem/FIT-1st Sem-CE-EC-LT-ME.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FIT/17/1st Sem/InfoFIT-1st Sem-CE-EC-LT-ME.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FIT/17/2nd Sem/FIT-2ndSem-EC-IT.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FIT/17/2nd Sem/InfoFIT-2ndSem-EC-IT.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FIT/18/1st Sem/FIT-18-EC-EE.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FIT/18/1st Sem/InfoFIT-18-EC-EE.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FIT/18/2nd Sem/FIT-18-IT-ME-LT-CE.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FIT/18/2nd Sem/InfoFIT-18-IT-ME-LT-CE.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Step -2/COAttainment.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Step -2/FinalOne.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Step -2/Info061603withAvg.csv" afterDir="false" />
@@ -322,7 +325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592397713327</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Upto All">
+      <created>1592461540936</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1592461540936</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -344,30 +354,30 @@
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="413" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.736@0.0.1366.736" timestamp="1592212564569" />
-    <state x="515" y="0" key="CommitChangelistDialog2" timestamp="1592397705678">
+    <state x="515" y="0" key="CommitChangelistDialog2" timestamp="1592461539312">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="515" y="0" key="CommitChangelistDialog2/0.0.1366.736@0.0.1366.736" timestamp="1592397705678" />
+    <state x="515" y="0" key="CommitChangelistDialog2/0.0.1366.736@0.0.1366.736" timestamp="1592461539312" />
     <state x="522" y="267" key="Github.ShareDialog" timestamp="1592048592391">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="522" y="267" key="Github.ShareDialog/0.0.1366.736@0.0.1366.736" timestamp="1592048592391" />
-    <state width="1345" height="180" key="GridCell.Tab.0.bottom" timestamp="1592461458051">
+    <state width="1345" height="180" key="GridCell.Tab.0.bottom" timestamp="1592464590292">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1592461458051" />
-    <state width="1345" height="180" key="GridCell.Tab.0.center" timestamp="1592461458051">
+    <state width="1345" height="180" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1592464590292" />
+    <state width="1345" height="180" key="GridCell.Tab.0.center" timestamp="1592464590292">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1592461458051" />
-    <state width="1345" height="180" key="GridCell.Tab.0.left" timestamp="1592461458051">
+    <state width="1345" height="180" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1592464590292" />
+    <state width="1345" height="180" key="GridCell.Tab.0.left" timestamp="1592464590292">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1592461458051" />
-    <state width="1345" height="180" key="GridCell.Tab.0.right" timestamp="1592461458051">
+    <state width="1345" height="180" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1592464590292" />
+    <state width="1345" height="180" key="GridCell.Tab.0.right" timestamp="1592464590292">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1592461458051" />
+    <state width="1345" height="180" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1592464590292" />
     <state x="395" y="86" key="MultipleFileMergeDialog" timestamp="1592290106866">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
@@ -376,10 +386,10 @@
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="186" y="14" key="SettingsEditor/0.0.1366.736@0.0.1366.736" timestamp="1592204447254" />
-    <state x="550" y="92" key="Vcs.Push.Dialog.v2" timestamp="1592397715496">
+    <state x="550" y="92" key="Vcs.Push.Dialog.v2" timestamp="1592461546654">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="550" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.736@0.0.1366.736" timestamp="1592397715496" />
+    <state x="550" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.736@0.0.1366.736" timestamp="1592461546654" />
     <state x="550" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1592148077240">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
