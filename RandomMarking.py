@@ -9,10 +9,11 @@ from CSVreadwrite import readDir, readCSV, writeCSV
 # infopath = "Result-14/ThInfoMarks- 14/Info7thsem- 14"
 # path = "CO-PO-MIT/EC-8th-CN/"
 # infopath = "CO-PO-MIT/EC-8th-CN/"
+#path = "OOP/CE-15"
+#infopath = "OOP/OOP-Marks-15/"
 
-path = "OOP/CE-15"
-infopath = "OOP/OOP-Marks-15/"
-
+path = "FIT/16/2nd Sem/"
+infopath = "FIT/16/2nd Sem/"
 
 allfiles = readDir(path)
 # print(allfiles)

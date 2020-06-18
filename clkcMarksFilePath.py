@@ -1,3 +1,3 @@
 
-clkcFilePath = "OOP/OOP-Attain/OOP-CLKC.csv"
-MarksFilePath = "OOP/OOP-Attain/15/LT/InfoLT-OOPs-15.csv"
+clkcFilePath = "FIT/FIT-CLKC.csv"
+MarksFilePath = "FIT/16/2nd Sem/InfoFIT-16-IT-EE.csv"
