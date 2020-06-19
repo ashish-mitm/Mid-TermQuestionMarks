@@ -1,0 +1,7 @@
+Course Code,COs,CO,POs/PSOs,CK,KC,Total Session
+51606,CO1,Interpret the fundamental needs of algorithms in problem solving,"PO1,PO2,PO3,PO5,PO10,PSO1.","U,R","C,P",8
+51606,CO2,Classify the different algorithm design techniques for problem solving,"PO2,PO4,PO10,PO12,PSO1","U,An",F,10
+51606,CO3,Develop algorithms for various computing problems,"PO4,PO6,PO12,PSO1","An,E",P,7
+51606,CO4,Analyze the time and space complexity of various algorithms,"PO2,PO4,PO11,PSO1","An,E",P,6
+51606,CO5,Identify the limitations of algorithms in problem solving,"PO5,PO12,PSO1","C,Ap",C,5
+51606,CO6,Analyze the pros and cons of applying the different design paradigms in different Contexts.,"PO1,PO3PO4,PO7,PSO1",C,P,6
