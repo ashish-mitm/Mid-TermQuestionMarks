@@ -1,53 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93704c75-9a27-459d-bc1b-ae63f7e0ce7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/5/Comp/COAttainment.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/5/Comp/COPOMapping.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/5/Comp/Comp-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/5/Comp/FinalOne.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/5/Comp/Info061603withAvg.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/5/Comp/MappingStrength.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/5/Comp/POPSOAttain.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/6/DAA/COAttainment.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/6/DAA/COPOMapping.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/6/DAA/DAA-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/6/DAA/FinalOne.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/6/DAA/Info061603withAvg.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/6/DAA/MappingStrength.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/6/DAA/POPSOAttain.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/5/Comp/COAttainment.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/5/Comp/COPOMapping.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/5/Comp/Comp-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/5/Comp/FinalOne.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/5/Comp/Info061603withAvg.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/5/Comp/Info51516.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/5/Comp/MappingStrength.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/5/Comp/POPSOAttain.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/DAA/COAttainment.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/DAA/COPOMapping.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/DAA/DAA-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/DAA/FinalOne.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/DAA/Info051606.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/DAA/Info061603withAvg.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/DAA/MappingStrength.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/6/DAA/POPSOAttain.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Step -2/COAttainment.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Step -2/COPOMapping.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Step -2/FinalOne.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Step -2/Info061603withAvg.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Step -2/MappingStrength.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Step -2/POPSOAttain.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/5/FLAT/FLAT-CLKC.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/5/FLAT/FLAT-CLKC.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/5/FLAT/COAttainment.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/5/FLAT/COAttainment.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/5/FLAT/COPOMapping.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/5/FLAT/COPOMapping.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/5/FLAT/FLAT-CLKC.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/5/FLAT/FLAT-CLKC.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/5/FLAT/FinalOne.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/5/FLAT/FinalOne.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/5/FLAT/MappingStrength.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/5/FLAT/MappingStrength.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/5/FLAT/POPSOAttain.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/5/FLAT/POPSOAttain.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clkcMarksFilePath.py" beforeDir="false" afterPath="$PROJECT_DIR$/clkcMarksFilePath.py" afterDir="false" />
-    </list>
+    <list default="true" id="93704c75-9a27-459d-bc1b-ae63f7e0ce7d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -369,7 +323,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592464659203</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Upto All">
+      <created>1592824682686</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1592824682686</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -391,42 +352,42 @@
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="413" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.736@0.0.1366.736" timestamp="1592824250786" />
-    <state x="515" y="0" key="CommitChangelistDialog2" timestamp="1592466138067">
+    <state x="515" y="0" key="CommitChangelistDialog2" timestamp="1592824680228">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="515" y="0" key="CommitChangelistDialog2/0.0.1366.736@0.0.1366.736" timestamp="1592466138067" />
+    <state x="515" y="0" key="CommitChangelistDialog2/0.0.1366.736@0.0.1366.736" timestamp="1592824680228" />
     <state x="522" y="267" key="Github.ShareDialog" timestamp="1592048592391">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="522" y="267" key="Github.ShareDialog/0.0.1366.736@0.0.1366.736" timestamp="1592048592391" />
-    <state width="1345" height="180" key="GridCell.Tab.0.bottom" timestamp="1592824639721">
+    <state width="1345" height="180" key="GridCell.Tab.0.bottom" timestamp="1592824814297">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1592824639721" />
-    <state width="1345" height="180" key="GridCell.Tab.0.center" timestamp="1592824639721">
+    <state width="1345" height="180" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1592824814297" />
+    <state width="1345" height="180" key="GridCell.Tab.0.center" timestamp="1592824814297">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1592824639721" />
-    <state width="1345" height="180" key="GridCell.Tab.0.left" timestamp="1592824639721">
+    <state width="1345" height="180" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1592824814297" />
+    <state width="1345" height="180" key="GridCell.Tab.0.left" timestamp="1592824814297">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1592824639721" />
-    <state width="1345" height="180" key="GridCell.Tab.0.right" timestamp="1592824639721">
+    <state width="1345" height="180" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1592824814297" />
+    <state width="1345" height="180" key="GridCell.Tab.0.right" timestamp="1592824814297">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1592824639721" />
-    <state x="395" y="86" key="MultipleFileMergeDialog" timestamp="1592290106866">
+    <state width="1345" height="180" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1592824814297" />
+    <state x="395" y="86" key="MultipleFileMergeDialog" timestamp="1592824801888">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="395" y="86" key="MultipleFileMergeDialog/0.0.1366.736@0.0.1366.736" timestamp="1592290106866" />
-    <state x="186" y="14" key="SettingsEditor" timestamp="1592204447254">
+    <state x="395" y="86" key="MultipleFileMergeDialog/0.0.1366.736@0.0.1366.736" timestamp="1592824801888" />
+    <state x="186" y="14" key="SettingsEditor" timestamp="1592824810621">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="186" y="14" key="SettingsEditor/0.0.1366.736@0.0.1366.736" timestamp="1592204447254" />
-    <state x="550" y="92" key="Vcs.Push.Dialog.v2" timestamp="1592466140983">
+    <state x="186" y="14" key="SettingsEditor/0.0.1366.736@0.0.1366.736" timestamp="1592824810621" />
+    <state x="550" y="92" key="Vcs.Push.Dialog.v2" timestamp="1592824684842">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="550" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.736@0.0.1366.736" timestamp="1592466140983" />
+    <state x="550" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.736@0.0.1366.736" timestamp="1592824684842" />
     <state x="550" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1592148077240">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
