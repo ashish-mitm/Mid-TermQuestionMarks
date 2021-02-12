@@ -2,9 +2,477 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93704c75-9a27-459d-bc1b-ae63f7e0ce7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/14 Batch IT/4/DSM/DSM-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/4/DSM/DSM-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16TRIT.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/16TRIT.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/16TRIT.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/2/FIT/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/2/FIT/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/2/FIT/FIT-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/2/FIT/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/2/FIT/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/2/FIT/Info61201.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/2/FIT/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/2/FIT/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/3/OOP/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/3/OOP/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/3/OOP/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/3/OOP/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/3/OOP/Info51301.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/3/OOP/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/3/OOP/OOP-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/3/OOP/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/CAO/CAO-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/CAO/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/CAO/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/CAO/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/CAO/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/CAO/Info51402.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/CAO/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/CAO/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/DB/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/DB/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/DB/DB-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/DB/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/DB/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/DB/Info51409.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/DB/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/DB/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/DS/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/DS/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/DS/DS-14-Lab-Attain.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/DS/DS-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/DS/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/DS/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/DS/Info51403.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/DS/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/DS/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/DSM/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/DSM/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/DSM/DSM-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/DSM/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/DSM/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/DSM/Info211405.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/DSM/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/4/DSM/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/CN/CN-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/CN/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/CN/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/CN/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/CN/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/CN/Info51513.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/CN/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/CN/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/Comp/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/Comp/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/Comp/Comp-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/Comp/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/Comp/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/Comp/Info51516.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/Comp/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/Comp/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/FLAT/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/FLAT/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/FLAT/FLAT-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/FLAT/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/FLAT/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/FLAT/Info51511.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/FLAT/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/FLAT/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/Sys/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/Sys/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/Sys/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/Sys/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/Sys/Info51505.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/Sys/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/Sys/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/Sys/Sys-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/Web/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/Web/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/Web/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/Web/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/Web/Info61502.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/Web/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/Web/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/5/Web/WEB-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/AI/AI-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/AI/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/AI/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/AI/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/AI/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/AI/Info51617.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/AI/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/AI/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/DAA/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/DAA/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/DAA/DAA-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/DAA/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/DAA/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/DAA/Info51606.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/DAA/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/DAA/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/DMW/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/DMW/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/DMW/DMW-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/DMW/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/DMW/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/DMW/Info61606.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/DMW/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/DMW/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/OS/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/OS/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/OS/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/OS/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/OS/Info61603.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/OS/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/OS/OS-14-Lab-Attain.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/OS/OS-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/OS/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/SE/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/SE/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/SE/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/SE/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/SE/Info51614.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/SE/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/SE/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/SE/SE-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/VB/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/VB/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/VB/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/VB/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/VB/Info61604.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/VB/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/VB/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/6/VB/VB-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/Crypto/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/Crypto/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/Crypto/Crypto-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/Crypto/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/Crypto/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/Crypto/Info51718.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/Crypto/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/Crypto/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/DCA/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/DCA/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/DCA/DCA-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/DCA/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/DCA/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/DCA/Info61707.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/DCA/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/DCA/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/IS/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/IS/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/IS/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/IS/IS-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/IS/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/IS/Info61705.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/IS/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/IS/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/MIS/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/MIS/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/MIS/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/MIS/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/MIS/Info61722.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/MIS/MIS-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/MIS/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/MIS/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/WMC/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/WMC/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/WMC/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/WMC/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/WMC/Info61711.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/WMC/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/WMC/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/7/WMC/WMC-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/ECO/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/ECO/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/ECO/ECO-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/ECO/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/ECO/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/ECO/Info61818.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/ECO/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/ECO/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/IDS/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/IDS/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/IDS/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/IDS/IDS-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/IDS/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/IDS/Info61808.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/IDS/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/IDS/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/MM/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/MM/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/MM/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/MM/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/MM/Info61810.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/MM/MM-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/MM/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/MM/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/NS/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/NS/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/NS/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/NS/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/NS/Info61814.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/NS/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/NS/NS-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/NS/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/XML/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/XML/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/XML/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/XML/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/XML/Info61809.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/XML/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/XML/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/8/XML/XML-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/011101P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/021101P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/021103P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/021202P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/031201P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/031411P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/041301P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/041302P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/041404P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/041503P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/051301P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/051403P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/051409P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/051505P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/051516P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/051614P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/051617P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/061201P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/061502P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/061603P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/061604P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/061707P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/061724P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/061726P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/061809P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/061825P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/11101.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/11102.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/21101.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/211101.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/211202.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/211303.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/211405.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/21202.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/221201.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/221201P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/231101.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/231101P.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/241205.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/241301.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/241306.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/241702.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/31201.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/31411.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/41301.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/41302.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/41404.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/41503.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/51301.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/51402.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/51403.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/51409.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/51505.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/51511.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/51513.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/51516.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/51606.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/51614.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/51617.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/51718.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/61201.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/61502.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/61603.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/61604.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/61606.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/61705.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/61707.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/61711.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/61722.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/61808.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/61809.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/61810.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/61814.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/AllMArksRawData/61818.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT/CourseCode-SubjectName.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBuilderFromTR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getCourseNameByCode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyMsgBox-1.0.9.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyMsgBox-1.0.9.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyMsgBox-1.0.9.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyMsgBox-1.0.9.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyMsgBox-1.0.9.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyTweening-1.0.3-py3.8.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyTweening-1.0.3-py3.8.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyTweening-1.0.3-py3.8.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyTweening-1.0.3-py3.8.egg-info/installed-files.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyTweening-1.0.3-py3.8.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/certifi-2020.12.5.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/certifi-2020.12.5.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/certifi-2020.12.5.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/certifi-2020.12.5.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/certifi-2020.12.5.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/certifi-2020.12.5.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/certifi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/certifi/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/certifi/cacert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/certifi/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet-4.0.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet-4.0.0.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet-4.0.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet-4.0.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet-4.0.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet-4.0.0.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet-4.0.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/big5freq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/big5prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/chardistribution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/charsetgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/charsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/cli/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/cli/chardetect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/codingstatemachine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/cp949prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/enums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/escprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/escsm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/eucjpprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/euckrfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/euckrprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/euctwfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/euctwprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/gb2312freq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/gb2312prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/hebrewprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/jisfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/jpcntx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/langbulgarianmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/langgreekmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/langhebrewmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/langhungarianmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/langrussianmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/langthaimodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/langturkishmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/latin1prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/mbcharsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/mbcsgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/mbcssm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/metadata/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/metadata/languages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/sbcharsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/sbcsgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/sjisprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/universaldetector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/utf8prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/idna-2.10.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/idna-2.10.dist-info/LICENSE.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/idna-2.10.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/idna-2.10.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/idna-2.10.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/idna-2.10.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/idna/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/idna/codec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/idna/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/idna/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/idna/idnadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/idna/intranges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/idna/package_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/idna/uts46data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/panda-0.3.1-py3.8.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/panda-0.3.1-py3.8.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/panda-0.3.1-py3.8.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/panda-0.3.1-py3.8.egg-info/installed-files.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/panda-0.3.1-py3.8.egg-info/requires.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/panda-0.3.1-py3.8.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/panda/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/panda/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/panda/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/panda/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/panda/upload_session.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymsgbox/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pymsgbox/_native_win.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pytweening/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests-2.25.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests-2.25.1.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests-2.25.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests-2.25.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests-2.25.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests-2.25.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/__version__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/_internal_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/adapters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/certs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/cookies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/help.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/hooks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/packages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/sessions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/status_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3-1.26.3.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3-1.26.3.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3-1.26.3.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3-1.26.3.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3-1.26.3.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3-1.26.3.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/_collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/connectionpool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/_appengine_environ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/_securetransport/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/_securetransport/bindings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/_securetransport/low_level.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/appengine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/ntlmpool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/pyopenssl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/securetransport.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/socks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/fields.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/filepost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/packages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/packages/backports/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/packages/backports/makefile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/packages/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/packages/ssl_match_hostname/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/packages/ssl_match_hostname/_implementation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/poolmanager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/retry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/ssl_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/ssltransport.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/timeout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/chardetect.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Mid-TermQuestionMarks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Mid-TermQuestionMarks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSVreadwrite.py" beforeDir="false" afterPath="$PROJECT_DIR$/CSVreadwrite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,17 +509,18 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/CO-PO-MIT/15 Batch IT/4/DSM" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CO-PO-MIT/16 Batch IT" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Mid-TermQuestionMarks" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Mid-TermQuestionMarks" />
+      </console-settings>
+    </option>
+  </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\CO-PO-MIT\14 Batch IT\4\DSM" />
-      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\CO-PO-MIT\15 Batch IT\4\DSM" />
-      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\CO-PO-MIT\15 Batch IT\5\FLAT" />
-      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\CO-PO-MIT\14 Batch IT\5\FLAT" />
-      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\CO-PO-MIT\15 Batch IT\5\Comp" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\FIT\16\1st Sem" />
       <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\FIT\16\2nd Sem" />
@@ -59,9 +528,16 @@
       <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\Result-14\Lab" />
       <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\CO-PO-MIT\16 Batch IT" />
+      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\CO-PO-MIT\15 Batch IT\4\DSM" />
+      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\CO-PO-MIT\14 Batch IT\4\DSM" />
+      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\CO-PO-MIT\15 Batch IT\5\FLAT" />
+      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\CO-PO-MIT\14 Batch IT\5\FLAT" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.FinalOne">
-    <configuration name="FinalOne" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.getCourseNameByCode">
+    <configuration name="CleanTR" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mid-TermQuestionMarks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,7 +549,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FinalOne.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CleanTR.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +558,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RandomMarking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="DataBuilderFromTR" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mid-TermQuestionMarks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,49 +570,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RandomMarking.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Step-1-2-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Mid-TermQuestionMarks" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Step-1-2-2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Step-2-2-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Mid-TermQuestionMarks" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Step-2-2-3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataBuilderFromTR.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,16 +600,59 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="getCourseNameByCode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Mid-TermQuestionMarks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getCourseNameByCode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Mid-TermQuestionMarks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.FinalOne" />
+        <item itemvalue="Python.getCourseNameByCode" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.DataBuilderFromTR" />
+        <item itemvalue="Python.CleanTR" />
         <item itemvalue="Python.Step-3-2-4" />
-        <item itemvalue="Python.Step-2-2-3" />
-        <item itemvalue="Python.Step-1-2-2" />
-        <item itemvalue="Python.RandomMarking" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -341,7 +818,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592824823831</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Upto All">
+      <created>1592825693095</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1592825693095</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -351,62 +835,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="Upto All" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="427" y="179" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591949467775">
-      <screen x="0" y="0" width="1366" height="736" />
+    <state width="1345" height="178" key="GridCell.Tab.0.bottom" timestamp="1613135530872">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="427" y="179" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.736@0.0.1366.736" timestamp="1591949467775" />
-    <state x="363" y="108" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1592289069225">
-      <screen x="0" y="0" width="1366" height="736" />
+    <state width="1345" height="178" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1613135530872" />
+    <state width="1345" height="178" key="GridCell.Tab.0.center" timestamp="1613135530872">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="363" y="108" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.736@0.0.1366.736" timestamp="1592289069225" />
-    <state x="413" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592824250786">
-      <screen x="0" y="0" width="1366" height="736" />
+    <state width="1345" height="178" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1613135530872" />
+    <state width="1345" height="178" key="GridCell.Tab.0.left" timestamp="1613135530872">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="413" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.736@0.0.1366.736" timestamp="1592824250786" />
-    <state x="515" y="0" key="CommitChangelistDialog2" timestamp="1592824823034">
-      <screen x="0" y="0" width="1366" height="736" />
+    <state width="1345" height="178" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1613135530872" />
+    <state width="1345" height="178" key="GridCell.Tab.0.right" timestamp="1613135530872">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="515" y="0" key="CommitChangelistDialog2/0.0.1366.736@0.0.1366.736" timestamp="1592824823034" />
-    <state x="522" y="267" key="Github.ShareDialog" timestamp="1592048592391">
-      <screen x="0" y="0" width="1366" height="736" />
+    <state width="1345" height="178" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1613135530872" />
+    <state x="186" y="14" key="SettingsEditor" timestamp="1613115403347">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="522" y="267" key="Github.ShareDialog/0.0.1366.736@0.0.1366.736" timestamp="1592048592391" />
-    <state width="1345" height="180" key="GridCell.Tab.0.bottom" timestamp="1592825672689">
-      <screen x="0" y="0" width="1366" height="736" />
-    </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1592825672689" />
-    <state width="1345" height="180" key="GridCell.Tab.0.center" timestamp="1592825672689">
-      <screen x="0" y="0" width="1366" height="736" />
-    </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1592825672689" />
-    <state width="1345" height="180" key="GridCell.Tab.0.left" timestamp="1592825672689">
-      <screen x="0" y="0" width="1366" height="736" />
-    </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1592825672689" />
-    <state width="1345" height="180" key="GridCell.Tab.0.right" timestamp="1592825672689">
-      <screen x="0" y="0" width="1366" height="736" />
-    </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1592825672689" />
-    <state x="395" y="86" key="MultipleFileMergeDialog" timestamp="1592824801888">
-      <screen x="0" y="0" width="1366" height="736" />
-    </state>
-    <state x="395" y="86" key="MultipleFileMergeDialog/0.0.1366.736@0.0.1366.736" timestamp="1592824801888" />
-    <state x="186" y="14" key="SettingsEditor" timestamp="1592824810621">
-      <screen x="0" y="0" width="1366" height="736" />
-    </state>
-    <state x="186" y="14" key="SettingsEditor/0.0.1366.736@0.0.1366.736" timestamp="1592824810621" />
-    <state x="550" y="92" key="Vcs.Push.Dialog.v2" timestamp="1592824824909">
-      <screen x="0" y="0" width="1366" height="736" />
-    </state>
-    <state x="550" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.736@0.0.1366.736" timestamp="1592824824909" />
-    <state x="550" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1592148077240">
-      <screen x="0" y="0" width="1920" height="1053" />
-    </state>
-    <state x="391" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.736@0.0.1366.736" timestamp="1591975326630" />
-    <state x="550" y="282" key="com.intellij.ide.util.TipDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1592148077240" />
-    <state x="494" y="288" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592290100074">
-      <screen x="0" y="0" width="1366" height="736" />
-    </state>
-    <state x="494" y="288" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.736@0.0.1366.736" timestamp="1592290100074" />
+    <state x="186" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1613115403347" />
   </component>
 </project>

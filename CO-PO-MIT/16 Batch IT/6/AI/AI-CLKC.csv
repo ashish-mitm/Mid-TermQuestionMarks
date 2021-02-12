@@ -1,0 +1,7 @@
+Course Code,CO No.,Course outcomes,Pos/PSOs,CL,KC,Classroom session
+51617,CO1,"Understand the various searching techniques ,constraint satisfaction problem and example problem like game playing techniques.","PO2, PSO1",U,C,6
+51617,CO2,Apply these techniques in the applications which involves perception reasoning and learning.,"PO2,PO3",E,"C,P",10
+51617,CO3,Explain the role of agents and how it is related to environment and the way of evaluating it,"PO4,PO5","U,Ap",C,10
+51617,CO4,Acquire the knowledge of the real world Knowledge representation.,PO3,Ap,P,6
+51617,CO5,Analyze and design a real world problem for implementation and understand the dynamic behavior of a system.,"PO4,PO5","U,Ap","C,P",6
+51617,CO6,Use different machine learning techniques to design AI machine and enveloping applications for real world problems.,PO5,"U,An,Ap","C,P",6

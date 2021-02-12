@@ -14,9 +14,9 @@ def readCSV(file):
 
 def writeCSV(file, data, mode='a+'):
     with open(file, mode, newline='') as myfile:
-        wr = csv.writer(myfile, quoting=csv.QUOTE_ALL)
-        for d in data:
-            wr.writerow(d)
+        wr = csv.writer(myfile, quoting=csv.QUOTE_ALL,delimiter=',')
+        #for d in data:
+        wr.writerow(data)
 
 
 def readDir(name):
