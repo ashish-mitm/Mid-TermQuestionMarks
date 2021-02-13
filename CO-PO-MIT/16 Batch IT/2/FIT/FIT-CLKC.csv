@@ -1,7 +1,7 @@
 Course Code,CO No.,Course Outcomes,Pos/PSOs,CL,KC,Classroom session
 61201,CO1,Understand the basic of computer system and working of C programming,"PO1,PSO1",U,C,4
 61201,CO2,TO design and write an algorithm and flow chart diagram ,"PO1,PSO1",U,C,4
-61201,CO3,"Understand the use of the C programming language to implement various algorithms, and learn the basic  of Operators, Conditional, Branching and loop statement terminology of programming ","PO2.PO4,PSO1",U,"C,P",8
+61201,CO3,"Understand the use of the C programming language to implement various algorithms, and learn the basic  of Operators, Conditional, Branching and loop statement terminology of programming ","PO2,PO4,PSO1",U,"C,P",8
 61201,CO4,Able to use  array and structure to formulate algorithm and program to solve matrix addition multiplication and searcing and sorting ,"PO1,PO2,PO5,PSO1",AP,C,10
 61201,CO5,"Ability to Design and implement the programs using Functions, Pointers , Structures and Unions in C language. ","PO1,PO2,PO4,PO5,PSO1",Ap,"C,P",10
 61201,CO6,Able to develop simple application using file handeling,"PO1,PO4,PO5,PSO1",,,6

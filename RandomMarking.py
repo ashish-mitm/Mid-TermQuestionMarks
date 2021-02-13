@@ -12,8 +12,13 @@ from CSVreadwrite import readDir, readCSV, writeCSV
 #path = "OOP/CE-15"
 #infopath = "OOP/OOP-Marks-15/"
 
-path = "FIT/18/2nd Sem/"
-infopath = "FIT/18/2nd Sem/"
+#path = "FIT/18/2nd Sem/"
+#infopath = "FIT/18/2nd Sem/"
+
+path = "Result-16/TH"
+infopath = "Result-16/ThInfoMarks-16"
+
+
 
 allfiles = readDir(path)
 # print(allfiles)
@@ -76,12 +81,13 @@ for file in allfiles:
             cleanData.append(row[0])
             cleanData.append(row[1])
             # Use this block only if you use above block and comment out below two lines
-            """ print(assAtt)
-            cleanData.append(str(assAtt[0]))
-            cleanData.append(str(assAtt[1]))
-            """
-            cleanData.append(str(assAtt[2]))
-            cleanData.append(str(assAtt[3]))
+            #print(assAtt)
+            #cleanData.append(str(assAtt[0]))
+            #cleanData.append(str(assAtt[1]))
+            #cleanData.append(str(assAtt[2]))
+            #cleanData.append(str(assAtt[3]))
+            cleanData.append(row[2])
+            cleanData.append(row[3])
             cleanData.extend(N)
             # Save Assumed IA marks
             #cleanData.append(v)

@@ -2,16 +2,16 @@ Course Code,CO No.,Course outcomes,Pos/PSOs,CL,KC,Classroom session
 51516,CO1,"To understand the basic Concept of Compilers, Translators,
  types of various phases of compiler and structure of symbol table.","PO1,PO2,PSO1",U,C,5
 51516,CO2,"To apply the Compiler writing tools such as lexical analysis tools,
- Specification of tokens and role of lexical analyser. ","PO1,PO3,PO5,PO6,POS1",AP,"C,P",2
+ Specification of tokens and role of lexical analyser. ","PO1,PO3,PO5,PO6,PSO1",AP,"C,P",2
 51516,CO3,"To apply the different types of parsing such as Top down-Predictive
  parsing, Operator precedence parsing etc. and Bottom up parsing:
- SLR, LR(1),CLR(1) etc.","PO1,PO3,PO5,PO6,POS1",AP,"C,P",10
+ SLR, LR(1),CLR(1) etc.","PO1,PO3,PO5,PO6,PSO1",AP,"C,P",10
 51516,CO4,"To evaluate the Bottom-up S-attribute definitions and inherited 
-attribute. L-attribute common top-down translation.","PO1,PO2,POS1",E,"C,P",5
-51516,CO5,To understand different types of checking and errors in compiler design.,"PO1,PO2,POS1",U,C,4
+attribute. L-attribute common top-down translation.","PO1,PO2,PSO1",E,"C,P",5
+51516,CO5,To understand different types of checking and errors in compiler design.,"PO1,PO2,PSO1",U,C,4
 51516,CO6,"To apply different types of code optimization techniques 
-and intermediate code generation techniques.","PO1,PO5,PO6,POS1",AP,"C,P",18
-,,,,,,44
+and intermediate code generation techniques.","PO1,PO5,PO6,PSO1",AP,"C,P",18
+,,,,,,
 ,,,,,,
 ,,,,,,
 ,,, ,,,
