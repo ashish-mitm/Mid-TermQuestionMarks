@@ -1,0 +1,7 @@
+Course Code,CO No.,Course outcomes,Pos/PSOs,CL,KC,Classroom session
+51513,CO1,"To Understand different aspects of networks, components,protocols and network design models","PO1,PO5,PSO2",U,C,4
+51513,CO2,To examine various Data Link layer design issues and Data Link protocols.,"PO1,PO2,PSO2",E,"F, C",8
+51513,CO3,To analyze different LAN protocols,"PO1,PO2,PO3,PSO2",Ap,C,4
+51513,CO4,To Select appropriate routing algorithms for a network,"PO1,PO2,PO3,PO4,PSO2",An,"F, C",10
+51513,CO5,"To examine the important aspects and functions of network layer, transport layer and application layer in networking.","PO1,PO2,PO4,PSO2",E,C,12
+51513,CO6,Design an IP based network using various networking devices and subnetting,"PO1,PO2,PO3,PO4,PO5,PSO2",C,P,4

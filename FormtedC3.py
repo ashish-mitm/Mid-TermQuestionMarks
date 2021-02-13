@@ -11,7 +11,7 @@ def find(target):
     return None, None
 
 
-Data = readCSV("CO-PO-MIT/16 Batch IT/8/NS/FinalOne.csv")
+Data = readCSV("CO-PO-MIT/15 Batch IT/8/XML/FinalOne.csv")
 courseName = readCSV("CO-PO-MIT/16 Batch IT/CourseCode-SubjectName.csv")
 
 len = len(courseName)
@@ -44,7 +44,7 @@ Co6 = [cName,cCode,Data[beginData][0],float(Data[beginData][9])*0.03, float(Data
 
 COAttainment = [Co1,Co2,Co3,Co4,Co5,Co6]
 '''
-writeCSV("CO-PO-MIT/16 Batch IT/CoAttainment16BatchAllSubjectIT.csv",COAttainment)
+writeCSV("CO-PO-MIT/16 Batch IT/CoAttainment15BatchAllSubjectIT.csv",COAttainment)
 
 PoAt=[cName,cCode,'-','-','-','-','-','-','-','-','-','-','-','-','-','-','-',]
 poIndex = {'PO1':2,'PO2':3,'PO3':4,'PO4':5,'PO5':6,'PO6':7,'PO7':8,'PO8':9,'PO9':10,'PO10':11,'PO11':12,'PO12':13,'PSO1':14,'PSO2':15,'PSO3':16}
@@ -59,7 +59,7 @@ for p in PoAttainments:
     PoAt.__setitem__(v,round(float(p[6])*0.03,2))
 print(PoAt)
 
-with open("CO-PO-MIT/16 Batch IT/PoPSOAttainment16BatchAllSubjectIT.csv", "a+", newline='') as myfile:
+with open("CO-PO-MIT/16 Batch IT/PoPSOAttainment15BatchAllSubjectIT.csv", "a+", newline='') as myfile:
     wr = csv.writer(myfile, quoting=csv.QUOTE_ALL, delimiter=',')
     wr.writerow(PoAt)
 

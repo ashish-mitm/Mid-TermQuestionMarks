@@ -1,0 +1,7 @@
+Course Code,CO No.,Course Outcomes,Pos/PSOs,CL,KC,Classroom session
+51402,CO1,"Demonstrate Computer Arithmetic, Instruction sets, Introduction to computer organization, CPU Design.","PO1,PSO3","U, Ap",C,7
+51402,CO2,Design Micro programmed Control,"PO1, PO2, PSO3",Ap,C,6
+51402,CO3,Explain Memory and Input-Output Systems,"PO1, PO5, PSO3",Ap,"C, P",15
+51402,CO4,Understand to Parallel Processing systems (RISC vs. CISC),"PO1, PO2, PSO3",Ap,C,7
+51402,CO5,To Discuss Principles of Pipelining and Vector Processing,"PO1, PSO3","R, U",C,4
+51402,CO6,"Describe Structures & Algorithms for Array Processors, SIMD Array processors, SIMD Interconnection networks.","PO1, PSO3","U, An",C,4

@@ -1,0 +1,7 @@
+Course Code,Cos,Course Outcome,POs/PSOs,CL,KC,Class Session
+211405,CO1,To understand the concept of Mathematical logic and to apply in set theory.,"PO1,PO2,PO3,PO4,PO5","U, Ap",P,6
+211405,CO2,To understand relation between two sets and to remember difference between relation and function.,"PO1,PO2,PO4","U, R", P,6
+211405,CO3,To analyze POSET and its properties.,"PO1,PO2,PO5",An,C,5
+211405,CO4,To understand groups and subgroups with example. To remember homomorphism between two groups and to understand Lagrange�s theorem for finite groups.,"PO1,PO2,PO3,PO5","U, R",C,10
+211405,CO5,To understand the theory of rings. To analyze ideals of a ring polynomials.,"PO1,PO2,PO3,PO4","U, An","C, P",5
+211405,CO6,To understand and create different types of graphs. To apply the theory of graphs to various physical problems.,"PO1,PO3,PO4,PO5","U, C, Ap","C, P",10
