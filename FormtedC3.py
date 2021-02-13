@@ -34,16 +34,7 @@ COAttainment = []
 for i in range(0, 6):
     COAttainment.append([cName,cCode,Data[beginData+i][0],round(float(Data[beginData+i][9])*0.03,2), round(float(Data[beginData+i][10])*0.03,2), round(float(Data[beginData+i][11])*0.03,2)])
 print(COAttainment)
-'''
-Co1 = [cName,cCode,Data[beginData][0],float(Data[beginData][9])*0.03, float(Data[beginData][10])*0.03, float(Data[beginData][11])*0.03]
-Co2 = [cName,cCode,Data[beginData][0],float(Data[beginData][9])*0.03, float(Data[beginData][10])*0.03, float(Data[beginData][11])*0.03]
-Co3 = [cName,cCode,Data[beginData][0],float(Data[beginData][9])*0.03, float(Data[beginData][10])*0.03, float(Data[beginData][11])*0.03]
-Co4 = [cName,cCode,Data[beginData][0],float(Data[beginData][9])*0.03, float(Data[beginData][10])*0.03, float(Data[beginData][11])*0.03]
-Co5 = [cName,cCode,Data[beginData][0],float(Data[beginData][9])*0.03, float(Data[beginData][10])*0.03, float(Data[beginData][11])*0.03]
-Co6 = [cName,cCode,Data[beginData][0],float(Data[beginData][9])*0.03, float(Data[beginData][10])*0.03, float(Data[beginData][11])*0.03]
 
-COAttainment = [Co1,Co2,Co3,Co4,Co5,Co6]
-'''
 writeCSV("CO-PO-MIT/16 Batch IT/CoAttainment15BatchAllSubjectIT.csv",COAttainment)
 
 PoAt=[cName,cCode,'-','-','-','-','-','-','-','-','-','-','-','-','-','-','-',]
