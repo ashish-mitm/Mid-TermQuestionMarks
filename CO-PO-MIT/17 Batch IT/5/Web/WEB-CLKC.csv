@@ -1,0 +1,7 @@
+Course Code,CO No.,Course Outcomes,Pos/PSOs,CL,KC,Classroom session
+61502,CO1,Generalize the history of the internet and related internet concepts that are vital in understanding web development.,"PO1,PO2,PSO1",U,F,3
+61502,CO2,Estimate the insights of internet programming and implement complete application over the web.,"PO1,PO2,PO10,PSO1",U,"F,C",3
+61502,CO3,Examine the important HTML tags and attribute for designing static pages and separate design from content using Cascading Style sheet,"PO3,PO5,PSO1",Ap,C,10
+61502,CO4,Illustrate the concepts of JavaScript and Java,"PO1,PO4,PSO1",An,C,14
+61502,CO5,"Understand the need of util, io packages in java and write simple programs for storing the data in database","PO1,PO2",An,"C,P",8
+61502,CO6,Apply the knowledge of event driven programming and GUIs to design & write program using applets and swings,"PO1,PO2,PO3,PO4,PSO1","Ap,E","C,P",6

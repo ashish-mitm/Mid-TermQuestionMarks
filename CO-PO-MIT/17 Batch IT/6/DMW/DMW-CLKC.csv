@@ -1,0 +1,7 @@
+Course Code,CO No.,Course outcomes,Pos/PSOs,CL,KC,Classroom session
+61606,CO1,Explain the characteristics of data warehouse and understand the concept of data mining and its applications.,"PO2,PSO1",U,C,6
+61606,CO2,Evaluate various data pre-processing techniques to improve the quality of data and efficiency and the ease of the mining process.,"PO2,PO3,PSO1",E,"C,P",10
+61606,CO3,Identify an appropriate Classification for different problems with high dimensional Data,"PO4,PO5,PSO1","U,Ap",C,10
+61606,CO4,Apply concept of association rule mining methods in the real world scenario.,"PO3,PSO1",Ap,P,6
+61606,CO5,Identify an appropriate Clustering for different problems with high dimensional Data,"PO4,PO5,PSO1","U,Ap","C,P",6
+61606,CO6,Outline various mining techniques on different data objects,"PO5,PSO1","U,An,Ap","C,P",6

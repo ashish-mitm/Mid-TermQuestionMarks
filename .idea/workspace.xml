@@ -2,7 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93704c75-9a27-459d-bc1b-ae63f7e0ce7d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/2/FIT/61201.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/2/FIT/FIT-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/3/OOP/OOP-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/CAO/CAO-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DB/DB-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DS/DS-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DSM/DSM-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/CN/CN-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/Comp/Comp-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/FLAT/FLAT-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/Sys/Sys-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/Web/WEB-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/6/AI/AI-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/6/DAA/DAA-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/6/DMW/DMW-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/6/OS/OS-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/6/SE/SE-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/6/VB/VB-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/18 Batch IT/2/PPS/100204.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/18 Batch IT/3/DM/106301.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/18 Batch IT/3/DSA/100304.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/18 Batch IT/3/OOP/100313.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/18 Batch IT/4/COA/106401.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/18 Batch IT/4/DBMS/106402.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/18 Batch IT/4/FLAT/100406.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/18 Batch IT/4/ML/106403.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/19 Batch IT/2/PPS/100204.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/19 Batch IT/2/PPS/Info100204.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RandomMarking.py" beforeDir="false" afterPath="$PROJECT_DIR$/RandomMarking.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +81,6 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\FIT\16\1st Sem" />
-      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\FIT\16\2nd Sem" />
-      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\Step -2\OS" />
-      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\Result-14\Lab" />
-      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\CO-PO-MIT\16 Batch IT" />
       <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\CO-PO-MIT\15 Batch IT\4\DSM" />
@@ -65,8 +88,15 @@
       <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\CO-PO-MIT\15 Batch IT\5\FLAT" />
       <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\CO-PO-MIT\14 Batch IT\5\FLAT" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\CO-PO-MIT\18 Batch IT\4\ML" />
+      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\CO-PO-MIT\18 Batch IT\4\DBMS" />
+      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\CO-PO-MIT\18 Batch IT\4\COA" />
+      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\CO-PO-MIT\18 Batch IT\4\FLAT" />
+      <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\FIT\16\1st Sem" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.FormtedC3">
+  <component name="RunManager" selected="Python.RandomMarking">
     <configuration name="FinalOne" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mid-TermQuestionMarks" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Step-1-2-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="RandomMarking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mid-TermQuestionMarks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +151,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Step-1-2-2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RandomMarking.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.RandomMarking" />
         <item itemvalue="Python.FormtedC3" />
         <item itemvalue="Python.FinalOne" />
         <item itemvalue="Python.Step-3-2-4" />
         <item itemvalue="Python.Step-2-2-3" />
-        <item itemvalue="Python.Step-1-2-2" />
       </list>
     </recent_temporary>
   </component>
@@ -383,7 +413,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613240462397</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="14 and 15 Batch CO-PO Attainment Formatted">
+      <created>1613240587540</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1613240587540</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -462,34 +499,34 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="413" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1613221695419" />
-    <state x="338" y="0" key="CommitChangelistDialog2" timestamp="1613240461732">
+    <state x="338" y="0" key="CommitChangelistDialog2" timestamp="1613240585685">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="338" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1613240461732" />
-    <state width="1345" height="133" key="GridCell.Tab.0.bottom" timestamp="1613240382718">
+    <state x="338" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1613240585685" />
+    <state width="1345" height="133" key="GridCell.Tab.0.bottom" timestamp="1615635986295">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="133" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1613240382718" />
-    <state width="1345" height="133" key="GridCell.Tab.0.center" timestamp="1613240382718">
+    <state width="1345" height="133" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1615635986295" />
+    <state width="1345" height="133" key="GridCell.Tab.0.center" timestamp="1615635986295">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="133" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1613240382718" />
-    <state width="1345" height="133" key="GridCell.Tab.0.left" timestamp="1613240382718">
+    <state width="1345" height="133" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1615635986295" />
+    <state width="1345" height="133" key="GridCell.Tab.0.left" timestamp="1615635986295">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="133" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1613240382718" />
-    <state width="1345" height="133" key="GridCell.Tab.0.right" timestamp="1613240382718">
+    <state width="1345" height="133" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1615635986295" />
+    <state width="1345" height="133" key="GridCell.Tab.0.right" timestamp="1615635986295">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="133" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1613240382718" />
+    <state width="1345" height="133" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1615635986295" />
     <state x="186" y="14" key="SettingsEditor" timestamp="1613115403347">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="186" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1613115403347" />
-    <state x="275" y="105" key="Vcs.Push.Dialog.v2" timestamp="1613240471067">
+    <state x="275" y="105" key="Vcs.Push.Dialog.v2" timestamp="1613240602747">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1613240471067" />
+    <state x="275" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1613240602747" />
     <state x="339" y="22" width="670" height="676" key="search.everywhere.popup" timestamp="1613220595350">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

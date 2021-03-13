@@ -1,0 +1,16 @@
+Course Code,CO No.,Course outcomes,Pos/PSOs,CL,KC,Classroom session
+51511,CO1,"To Design the different types of automata
+ and its application.","PO1,PO2,PO3,PSO1",U,C,3
+51511,CO2,To understand the regular language/expression of finite automata and different properties of regular language.,"PO1,PO2,PO3,PSO1",U,C,10
+51511,CO3,"To understand the CFG, its application
+ and its properties.","PO1,PO2,PO3,PSO1",U,C,11
+51511,CO4,"To Design the PDA corresponding to 
+the following CFG.","PO3,PO5,PSO1",C,FDP,6
+51511,CO5,"To Design the Turing machine for different 
+types of language.","PO3,PO5,PSO1",C,FDP,7
+51511,CO6,"To analyse different types of problems 
+such as P & NP and NP-complete problem.","PO2,PSO1",AP,CS,5
+,,,,,,
+,,,,,,
+,,,,,,
+,,, ,,,

@@ -1,3 +1,7 @@
+"""
+This code applies to TR File received from AKU
+"""
+
 # read csv file as a list of lists
 import csv
 from CSVreadwrite import readCSV, writeCSV
