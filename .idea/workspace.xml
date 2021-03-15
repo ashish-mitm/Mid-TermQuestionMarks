@@ -2,37 +2,93 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93704c75-9a27-459d-bc1b-ae63f7e0ce7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/2/FIT/61201.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/2/FIT/FIT-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/3/OOP/OOP-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/CAO/CAO-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DB/DB-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DS/DS-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DSM/DSM-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/CN/CN-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/Comp/Comp-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/FLAT/FLAT-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/Sys/Sys-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/Web/WEB-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/6/AI/AI-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/6/DAA/DAA-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/6/DMW/DMW-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/6/OS/OS-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/6/SE/SE-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/6/VB/VB-CLKC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/18 Batch IT/2/PPS/100204.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/18 Batch IT/3/DM/106301.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/18 Batch IT/3/DSA/100304.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/18 Batch IT/3/OOP/100313.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/18 Batch IT/4/COA/106401.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/18 Batch IT/4/DBMS/106402.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/18 Batch IT/4/FLAT/100406.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/18 Batch IT/4/ML/106403.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/19 Batch IT/2/PPS/100204.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/19 Batch IT/2/PPS/Info100204.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/2/FIT/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/2/FIT/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/2/FIT/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/2/FIT/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/2/FIT/Info61201.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/2/FIT/InfoFIT-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/2/FIT/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/2/FIT/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/3/OOP/51301.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/3/OOP/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/3/OOP/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/3/OOP/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/3/OOP/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/3/OOP/Info51301.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/3/OOP/InfoOOP-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/3/OOP/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/3/OOP/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/CAO/51402.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/CAO/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/CAO/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/CAO/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/CAO/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/CAO/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/CAO/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DB/51409.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DB/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DB/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DB/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DB/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DB/Info51409.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DB/InfoDB-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DB/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DB/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DS/51403.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DS/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DS/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DS/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DS/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DS/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DS/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DSM/211405.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DSM/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DSM/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DSM/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DSM/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DSM/Info211405.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DSM/InfoDSM-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DSM/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/4/DSM/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/CN/51513.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/CN/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/CN/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/CN/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/CN/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/CN/Info51513.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/CN/InfoCN-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/CN/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/CN/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/Comp/51516.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/Comp/COAttainment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/Comp/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/Comp/FinalOne.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/Comp/Info061603withAvg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/Comp/Info51516.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/Comp/InfoComp-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/Comp/MappingStrength.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/Comp/POPSOAttain.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/FLAT/51511.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/Sys/51505.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/Web/61502.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/Web/Info61502.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/5/Web/InfoWEB-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/6/AI/51617.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/6/AI/Info51617.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/6/AI/InfoAI-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/6/DAA/51606.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/6/DMW/61606.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/6/OS/61603.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/6/SE/51614.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/6/SE/Info51614.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/6/SE/InfoSE-CLKC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CO-PO-MIT/17 Batch IT/6/VB/61604.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Step -2/COPOMapping.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Step -2/MappingStrength.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RandomMarking.py" beforeDir="false" afterPath="$PROJECT_DIR$/RandomMarking.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clkcMarksFilePath.py" beforeDir="false" afterPath="$PROJECT_DIR$/clkcMarksFilePath.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +152,7 @@
       <recent name="C:\Users\IT10\PycharmProjects\Mid-TermQuestionMarks\FIT\16\1st Sem" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.RandomMarking">
+  <component name="RunManager" selected="Python.Run-1-2-3-Final">
     <configuration name="FinalOne" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mid-TermQuestionMarks" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,7 +216,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Step-2-2-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Run-1-2-3-Final" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mid-TermQuestionMarks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -172,7 +228,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Step-2-2-3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Run-1-2-3-Final.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Run-1-2-3-Final" />
         <item itemvalue="Python.RandomMarking" />
         <item itemvalue="Python.FormtedC3" />
         <item itemvalue="Python.FinalOne" />
         <item itemvalue="Python.Step-3-2-4" />
-        <item itemvalue="Python.Step-2-2-3" />
       </list>
     </recent_temporary>
   </component>
@@ -420,7 +476,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613240587540</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="14 and 15 Batch CO-PO Attainment Formatted">
+      <created>1615639505453</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1615639505453</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -495,41 +558,41 @@
     <option name="LAST_COMMIT_MESSAGE" value="14 and 15 Batch CO-PO Attainment Formatted" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="413" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613221695419">
+    <state x="413" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615811606523">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="413" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1613221695419" />
-    <state x="338" y="0" key="CommitChangelistDialog2" timestamp="1613240585685">
+    <state x="413" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1615811606523" />
+    <state x="338" y="0" key="CommitChangelistDialog2" timestamp="1615639501566">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="338" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1613240585685" />
-    <state width="1345" height="133" key="GridCell.Tab.0.bottom" timestamp="1615635986295">
+    <state x="338" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1615639501566" />
+    <state width="1345" height="133" key="GridCell.Tab.0.bottom" timestamp="1615811590144">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="133" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1615635986295" />
-    <state width="1345" height="133" key="GridCell.Tab.0.center" timestamp="1615635986295">
+    <state width="1345" height="133" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1615811590144" />
+    <state width="1345" height="133" key="GridCell.Tab.0.center" timestamp="1615811590144">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="133" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1615635986295" />
-    <state width="1345" height="133" key="GridCell.Tab.0.left" timestamp="1615635986295">
+    <state width="1345" height="133" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1615811590144" />
+    <state width="1345" height="133" key="GridCell.Tab.0.left" timestamp="1615811590144">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="133" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1615635986295" />
-    <state width="1345" height="133" key="GridCell.Tab.0.right" timestamp="1615635986295">
+    <state width="1345" height="133" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1615811590144" />
+    <state width="1345" height="133" key="GridCell.Tab.0.right" timestamp="1615811590144">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="133" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1615635986295" />
+    <state width="1345" height="133" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1615811590144" />
     <state x="186" y="14" key="SettingsEditor" timestamp="1613115403347">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="186" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1613115403347" />
-    <state x="275" y="105" key="Vcs.Push.Dialog.v2" timestamp="1613240602747">
+    <state x="275" y="105" key="Vcs.Push.Dialog.v2" timestamp="1615639515435">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1613240602747" />
-    <state x="339" y="22" width="670" height="676" key="search.everywhere.popup" timestamp="1613220595350">
+    <state x="275" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1615639515435" />
+    <state x="339" y="22" width="672" height="676" key="search.everywhere.popup" timestamp="1615812025774">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="339" y="22" width="670" height="676" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1613220595350" />
+    <state x="339" y="22" width="672" height="676" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1615812025774" />
   </component>
 </project>

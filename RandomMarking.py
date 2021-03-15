@@ -18,8 +18,8 @@ from CSVreadwrite import readDir, readCSV, writeCSV
 #path = "Result-16/TH"
 #infopath = "Result-16/ThInfoMarks-16"
 
-path = "CO-PO-MIT/18 Batch IT/4/ML"
-infopath = "CO-PO-MIT/18 Batch IT/4/ML"
+path = "CO-PO-MIT/17 Batch IT/6/VB"
+infopath = "CO-PO-MIT/17 Batch IT/6/VB"
 
 allfiles = readDir(path)
 # print(allfiles)
